@@ -9,7 +9,7 @@
 	{
 		"abr": "hay",
 		"price": 1,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Hay"
 	},
 	{
@@ -57,7 +57,7 @@
 	{
 		"abr": "agavefruit",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawAgave"
 	},
 	{
@@ -69,7 +69,7 @@
 	{
 		"abr": "kibble",
 		"price": 2,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Kibble"
 	},
 	{
@@ -93,7 +93,7 @@
 	{
 		"abr": "berries",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawBerries"
 	},
 	{
@@ -453,7 +453,7 @@
 	{
 		"abr": "wort",
 		"price": 4,
-		"category": "Manufactured",
+		"category": "Alcohol precursor",
 		"defname": "Wort"
 	},
 	{
@@ -483,7 +483,7 @@
 	{
 		"abr": "chocolate",
 		"price": 5,
-		"category": "Foods",
+		"category": "Sweets",
 		"defname": "Chocolate"
 	},
 	{
@@ -507,7 +507,7 @@
 	{
 		"abr": "milk",
 		"price": 5,
-		"category": "Animal products",
+		"category": "Ingredients",
 		"defname": "Milk"
 	},
 	{
@@ -5333,7 +5333,3877 @@
 		"price": 475,
 		"category": "SMG and PDW",
 		"defname": "RNGun_ZastavaM92_PDW"
+	},
+	{
+		"abr": "advancedgeothermalgenerator",
+		"price": 3908,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_geothermal_generator"
+	},
+	{
+		"abr": "advancednuclearpowerplant",
+		"price": 10067,
+		"category": "Power",
+		"defname": "sd_adv_powergen_nuclear_power_plant"
+	},
+	{
+		"abr": "advancedsolargenerator",
+		"price": 1358,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_solar_generator"
+	},
+	{
+		"abr": "advancedwatermillgenerator",
+		"price": 2142,
+		"category": "Power",
+		"defname": "sd_adv_powergen_WatermillGenerator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": 1258,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_wind_turbine"
+	},
+	{
+		"abr": "aerofleetfur",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "AA_Leather_Aerofleet"
+	},
+	{
+		"abr": "aerofleetmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "AA_AerofleetMeat"
+	},
+	{
+		"abr": "aerofleetmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Aerofleet"
+	},
+	{
+		"abr": "agavemust",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_AgaveMust"
+	},
+	{
+		"abr": "alc",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ALC"
+	},
+	{
+		"abr": "allosaurusegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "EggAllosaurusFertilized"
+	},
+	{
+		"abr": "allosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Allosaurus"
+	},
+	{
+		"abr": "ambrosiamust",
+		"price": 28,
+		"category": "Alcohol precursor",
+		"defname": "VG_AmbrosiaMust"
+	},
+	{
+		"abr": "ambrosiawine",
+		"price": 33,
+		"category": "Garden alcohol",
+		"defname": "VG_AmbrosiaWine"
+	},
+	{
+		"abr": "andrewsarchusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Andrewsarchus"
+	},
+	{
+		"abr": "animusvoxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_AnimusVox"
+	},
+	{
+		"abr": "ankylosaurusegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggAnkylosaurusFertilized"
+	},
+	{
+		"abr": "ankylosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ankylosaurus"
+	},
+	{
+		"abr": "antibiotics",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "VG_antibiotics"
+	},
+	{
+		"abr": "anti-materielrifle",
+		"price": 1267,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSAMRifle"
+	},
+	{
+		"abr": "aominisunlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "AO_MiniSunLamp"
+	},
+	{
+		"abr": "aosmallsunlamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "AO_SmallSunLamp"
+	},
+	{
+		"abr": "aosunlamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "AO_SunLamp"
+	},
+	{
+		"abr": "applecider",
+		"price": 25,
+		"category": "Garden alcohol",
+		"defname": "cider"
+	},
+	{
+		"abr": "applesoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "AppleSoda"
+	},
+	{
+		"abr": "apples",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawapple"
+	},
+	{
+		"abr": "arcticlionfur",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "AA_ArcticLion_Leather"
+	},
+	{
+		"abr": "arcticlionmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_ArcticLion"
+	},
+	{
+		"abr": "arcturanskyeelmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Skyeel"
+	},
+	{
+		"abr": "armoreddinosaurhide",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "Leather_ArmoredDino"
+	},
+	{
+		"abr": "arthropleuraegg(fert.)",
+		"price": 208,
+		"category": "Eggs (fert.)",
+		"defname": "EggArthropleuraFertilized"
+	},
+	{
+		"abr": "assaultarmor",
+		"price": 3717,
+		"category": "Apparel",
+		"defname": "Apparel_Bjorn"
+	},
+	{
+		"abr": "assaultcharger",
+		"price": 2508,
+		"category": "Ranged weapons",
+		"defname": "Gun_AssaultCharger"
+	},
+	{
+		"abr": "assaulthammer",
+		"price": 1367,
+		"category": "Melee weapons",
+		"defname": "JI_Ormbane"
+	},
+	{
+		"abr": "assaulthelmet",
+		"price": 1367,
+		"category": "Headgear",
+		"defname": "Apparel_BjornH"
+	},
+	{
+		"abr": "atom",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ATOM"
+	},
+	{
+		"abr": "automaticrifle",
+		"price": 900,
+		"category": "Ranged weapons",
+		"defname": "Gun_AutomaticRifle"
+	},
+	{
+		"abr": "autopsytable",
+		"price": 400,
+		"category": "Production",
+		"defname": "TableAutopsy"
+	},
+	{
+		"abr": "auxiliarypistol",
+		"price": 298,
+		"category": "Federation weapons",
+		"defname": "AD_AuxPistol"
+	},
+	{
+		"abr": "bakedpolenta",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "bakedpolenta"
+	},
+	{
+		"abr": "bamboo",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Bamboo"
+	},
+	{
+		"abr": "banana",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawbanana"
+	},
+	{
+		"abr": "bananasoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "BananaSoda"
+	},
+	{
+		"abr": "bandagekit",
+		"price": 10,
+		"category": "Medicine",
+		"defname": "Bandagekit"
+	},
+	{
+		"abr": "barley",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawBarley"
+	},
+	{
+		"abr": "baryonyxegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "EggBaryonyxFertilized"
+	},
+	{
+		"abr": "baryonyxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Baryonyx"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBattleRifle"
+	},
+	{
+		"abr": "beamsplitter",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "BeamSplitter"
+	},
+	{
+		"abr": "bean",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawbean"
+	},
+	{
+		"abr": "bedbugegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_BedBugEggFertilized"
+	},
+	{
+		"abr": "bedbugegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_BedBugEggUnfertilized"
+	},
+	{
+		"abr": "beetkvass",
+		"price": 23,
+		"category": "Garden soda",
+		"defname": "VegetableKvass"
+	},
+	{
+		"abr": "beetkvasswort",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_VegKvassWort"
+	},
+	{
+		"abr": "berrywine",
+		"price": 50,
+		"category": "Garden alcohol",
+		"defname": "strawberrywine"
+	},
+	{
+		"abr": "berrywinemust",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "CPD_WineMust"
+	},
+	{
+		"abr": "biofuel",
+		"price": 7,
+		"category": "Manufactured",
+		"defname": "VG_Biofuel"
+	},
+	{
+		"abr": "bionicreproductiveorgans",
+		"price": 1708,
+		"category": "Artificial",
+		"defname": "BionicReproductiveOrgans"
+	},
+	{
+		"abr": "blackhiveinsectjelly",
+		"price": 15,
+		"category": "Animal products",
+		"defname": "AA_BlackInsectJelly"
+	},
+	{
+		"abr": "blackinsectchitin",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_BlackChitin"
+	},
+	{
+		"abr": "blastdoor(2x1)",
+		"price": 1525,
+		"category": "Buildings",
+		"defname": "PH_DoorBlastDoor"
+	},
+	{
+		"abr": "blastdoor(3x2)",
+		"price": 2467,
+		"category": "Buildings",
+		"defname": "PH_DoorThickBlastDoor"
+	},
+	{
+		"abr": "blastturret",
+		"price": 1800,
+		"category": "Security",
+		"defname": "BlastTurretGun"
+	},
+	{
+		"abr": "blendedwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "VG_BlendedWool"
+	},
+	{
+		"abr": "blizzariskegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_BlizzariskEggFertilized"
+	},
+	{
+		"abr": "blizzariskegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_BlizzariskEggUnfertilized"
+	},
+	{
+		"abr": "blowgun",
+		"price": 221,
+		"category": "Ranged weapons",
+		"defname": "Gun_Blowgun"
+	},
+	{
+		"abr": "blueberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawblueberry"
+	},
+	{
+		"abr": "blueberrysoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "BlueberrySoda"
+	},
+	{
+		"abr": "bluefuzz",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "Leather_Bluefuzz"
+	},
+	{
+		"abr": "bouldermitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_BoulderMit"
+	},
+	{
+		"abr": "bowlofstew",
+		"price": 42,
+		"category": "Lavish Meals",
+		"defname": "bowlstew"
+	},
+	{
+		"abr": "brachiosaurusegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggBrachiosaurusFertilized"
+	},
+	{
+		"abr": "brachiosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Brachiosaurus"
+	},
+	{
+		"abr": "bread",
+		"price": 25,
+		"category": "Simple Meals",
+		"defname": "Bread"
+	},
+	{
+		"abr": "brontosaurusegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggBrontosaurusFertilized"
+	},
+	{
+		"abr": "brontosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Brontosaurus"
+	},
+	{
+		"abr": "brownale",
+		"price": 25,
+		"category": "Garden alcohol",
+		"defname": "BrownAle"
+	},
+	{
+		"abr": "brownmalt",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_BrownMalt"
+	},
+	{
+		"abr": "bumbledroneegg(fert.)",
+		"price": 10,
+		"category": "Eggs (fert.)",
+		"defname": "AA_BumbledroneQueenEggFertilized"
+	},
+	{
+		"abr": "burstcharger",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "Gun_BurstCharger"
+	},
+	{
+		"abr": "cactipinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Cactipine"
+	},
+	{
+		"abr": "cactusfruit",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawCactusFruit"
+	},
+	{
+		"abr": "cannedfruit",
+		"price": 10,
+		"category": "Fruits",
+		"defname": "CannedFruit"
+	},
+	{
+		"abr": "cannedmeal",
+		"price": 28,
+		"category": "Meals",
+		"defname": "MealCannedFood"
+	},
+	{
+		"abr": "cannedmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "CannedMeat"
+	},
+	{
+		"abr": "cannedvegetables",
+		"price": 8,
+		"category": "Vegetarian",
+		"defname": "CannedVeg"
+	},
+	{
+		"abr": "canningfactory",
+		"price": 642,
+		"category": "Production",
+		"defname": "VG_CanningFactory"
+	},
+	{
+		"abr": "canningtable",
+		"price": 483,
+		"category": "Production",
+		"defname": "CanningFactory"
+	},
+	{
+		"abr": "caramel",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Caramel"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSCarbine"
+	},
+	{
+		"abr": "carbonjumpsuit",
+		"price": 319,
+		"category": "Apparel",
+		"defname": "Carbonsuit"
+	},
+	{
+		"abr": "carnotaurusegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "EggCarnotaurusFertilized"
+	},
+	{
+		"abr": "carnotaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Carnotaurus"
+	},
+	{
+		"abr": "carrots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawCarrots"
+	},
+	{
+		"abr": "carver",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "Carver"
+	},
+	{
+		"abr": "chalicotheriummeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chalicotherium"
+	},
+	{
+		"abr": "chargedriver",
+		"price": 2192,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeDriver"
+	},
+	{
+		"abr": "chargesidearm",
+		"price": 850,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeSidearm"
+	},
+	{
+		"abr": "chargedblizzariskegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_BlizzariskSuperEggFertilized"
+	},
+	{
+		"abr": "chargeddunealiskegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_DunealiskSuperEggFertilized"
+	},
+	{
+		"abr": "chargedferaliskegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_FeraliskSuperEggFertilized"
+	},
+	{
+		"abr": "cheese",
+		"price": 25,
+		"category": "Ingredients",
+		"defname": "cheese"
+	},
+	{
+		"abr": "cheeseburger",
+		"price": 42,
+		"category": "Simple Meals",
+		"defname": "grilledmeat"
+	},
+	{
+		"abr": "cherries",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawCherry"
+	},
+	{
+		"abr": "cherrysoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "CherrySoda"
+	},
+	{
+		"abr": "chocolatemilk",
+		"price": 25,
+		"category": "Sweets",
+		"defname": "Chocomilk"
+	},
+	{
+		"abr": "cidermust",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_CiderMust"
+	},
+	{
+		"abr": "cigarillos",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Cigarillos"
+	},
+	{
+		"abr": "cleaver",
+		"price": 288,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralCleaver"
+	},
+	{
+		"abr": "closecombatarmor",
+		"price": 4050,
+		"category": "Apparel",
+		"defname": "Apparel_CloseCombatArmor"
+	},
+	{
+		"abr": "closecombathelmet",
+		"price": 1092,
+		"category": "Headgear",
+		"defname": "Apparel_CloseCombatHelmet"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "Storage_Locker"
+	},
+	{
+		"abr": "cloudberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawcloudberry"
+	},
+	{
+		"abr": "cloudberrysoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "CloudberrySoda"
+	},
+	{
+		"abr": "coconut",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawCoconut"
+	},
+	{
+		"abr": "coconutsoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "CoconutSoda"
+	},
+	{
+		"abr": "coffeebeans",
+		"price": 7,
+		"category": "Plant matter",
+		"defname": "CPD_CoffeeBeans"
+	},
+	{
+		"abr": "colossalaerofleetmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_ColossalAerofleet"
+	},
+	{
+		"abr": "combatblade",
+		"price": 467,
+		"category": "Melee weapons",
+		"defname": "GD_Sabertooth"
+	},
+	{
+		"abr": "compoststarter",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "VG_Compost"
+	},
+	{
+		"abr": "composterbox",
+		"price": 170,
+		"category": "Production",
+		"defname": "VG_Composterbox"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 542,
+		"category": "Ranged weapons",
+		"defname": "Bow_Compound"
+	},
+	{
+		"abr": "compsognathusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCompsognathusFertilized"
+	},
+	{
+		"abr": "compsognathusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Compsognathus"
+	},
+	{
+		"abr": "concussionbaton",
+		"price": 2300,
+		"category": "Melee weapons",
+		"defname": "AD_Verdict"
+	},
+	{
+		"abr": "controlrodactuator",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ControlRodActuator"
+	},
+	{
+		"abr": "cookie",
+		"price": 33,
+		"category": "Lavish Meals",
+		"defname": "cookie"
+	},
+	{
+		"abr": "cookingtools",
+		"price": 800,
+		"category": "Production",
+		"defname": "CookingTools"
+	},
+	{
+		"abr": "cornwort",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "CPD_CornWort"
+	},
+	{
+		"abr": "cornbread",
+		"price": 25,
+		"category": "Simple Meals",
+		"defname": "Cornbread"
+	},
+	{
+		"abr": "cornmeal",
+		"price": 5,
+		"category": "Ingredients",
+		"defname": "Cornmeal"
+	},
+	{
+		"abr": "corythosaurusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCorythosaurusFertilized"
+	},
+	{
+		"abr": "corythosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Corythosaurus"
+	},
+	{
+		"abr": "cottonfibre",
+		"price": 2,
+		"category": "Raw textiles",
+		"defname": "RawCotton"
+	},
+	{
+		"abr": "couchcenter",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchCenter"
+	},
+	{
+		"abr": "couchcorner",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchCorner"
+	},
+	{
+		"abr": "couchcornerinverted",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchCornerInv"
+	},
+	{
+		"abr": "couchleft",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchLeft"
+	},
+	{
+		"abr": "couchright",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Anon2CouchRight"
+	},
+	{
+		"abr": "counter",
+		"price": 38,
+		"category": "Furniture",
+		"defname": "Anon2CounterA"
+	},
+	{
+		"abr": "counterfull",
+		"price": 38,
+		"category": "Furniture",
+		"defname": "Anon2CounterAFull"
+	},
+	{
+		"abr": "crocodilemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Quinkana"
+	},
+	{
+		"abr": "cruciblecarbine",
+		"price": 1683,
+		"category": "Federation weapons",
+		"defname": "AD_CrucibleCarbine"
+	},
+	{
+		"abr": "cruciblecore",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "CrucibleCore"
+	},
+	{
+		"abr": "cruciblepistol",
+		"price": 1100,
+		"category": "Federation weapons",
+		"defname": "AD_Negotiator"
+	},
+	{
+		"abr": "crucibleprecisionrifle",
+		"price": 2367,
+		"category": "Federation weapons",
+		"defname": "AD_Intercessor"
+	},
+	{
+		"abr": "cruciblerifle",
+		"price": 1808,
+		"category": "Federation weapons",
+		"defname": "AD_Pacificator"
+	},
+	{
+		"abr": "crystallinestructurefoundry",
+		"price": 1117,
+		"category": "Production",
+		"defname": "YPTable"
+	},
+	{
+		"abr": "curtain(tribal)",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribal"
+	},
+	{
+		"abr": "cushionedchair",
+		"price": 195,
+		"category": "Furniture",
+		"defname": "Anon2CushionedChair"
+	},
+	{
+		"abr": "dakotaraptoregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDakotaraptorFertilized"
+	},
+	{
+		"abr": "dakotaraptormeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dakotaraptor"
+	},
+	{
+		"abr": "date",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawdate"
+	},
+	{
+		"abr": "datesoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "DateSoda"
+	},
+	{
+		"abr": "decaydrakemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_DecayDrake"
+	},
+	{
+		"abr": "deinocheirusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDeinocheirusFertilized"
+	},
+	{
+		"abr": "deinocheirusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Deinocheirus"
+	},
+	{
+		"abr": "deinotheriumtusk",
+		"price": 1000,
+		"category": "Items",
+		"defname": "DeinotheriumTusk"
+	},
+	{
+		"abr": "depleteduranium",
+		"price": 13,
+		"category": "Rimatomics Product",
+		"defname": "DepletedUraniumPellets"
+	},
+	{
+		"abr": "devilsheepmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_DevilSheep"
+	},
+	{
+		"abr": "dilophosaurusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDilophosaurusFertilized"
+	},
+	{
+		"abr": "dilophosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dilophosaurus"
+	},
+	{
+		"abr": "dinocrocutameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dinocrocuta"
+	},
+	{
+		"abr": "dinornisegg(fert.)",
+		"price": 117,
+		"category": "Eggs (fert.)",
+		"defname": "EggDinornisFertilized"
+	},
+	{
+		"abr": "dinosaurfuzz",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_DinosaurFuzz"
+	},
+	{
+		"abr": "dinosaurhide",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_DinosaurHide"
+	},
+	{
+		"abr": "dinosaurskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_DinosaurSkin"
+	},
+	{
+		"abr": "diplodocusegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggDiplodocusFertilized"
+	},
+	{
+		"abr": "diplodocusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Diplodocus"
+	},
+	{
+		"abr": "diprotodonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Diprotodon"
+	},
+	{
+		"abr": "disgustingnutrientpastemeal",
+		"price": 2,
+		"category": "Meals",
+		"defname": "AA_DisgustingMealNutrientPaste"
+	},
+	{
+		"abr": "doedicurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Doedicurus"
+	},
+	{
+		"abr": "doedicurusshell",
+		"price": 1333,
+		"category": "Items",
+		"defname": "DoedicurusShell"
+	},
+	{
+		"abr": "door(1x2)",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "PH_DoorDouble"
+	},
+	{
+		"abr": "door(3x1)",
+		"price": 260,
+		"category": "Buildings",
+		"defname": "PH_DoorTriple"
+	},
+	{
+		"abr": "doormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatLeather"
+	},
+	{
+		"abr": "doormat(blue)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBlue"
+	},
+	{
+		"abr": "doormat(green)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatGreen"
+	},
+	{
+		"abr": "doormat(orange)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatOrange"
+	},
+	{
+		"abr": "doormat(red)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatRed"
+	},
+	{
+		"abr": "doormat(teal)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatTeal"
+	},
+	{
+		"abr": "dresser",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "Anon2Dresser"
+	},
+	{
+		"abr": "driedfruit",
+		"price": 23,
+		"category": "Fruits",
+		"defname": "driedfruit"
+	},
+	{
+		"abr": "driveactuator",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "DriveActuator"
+	},
+	{
+		"abr": "dropsuit",
+		"price": 3858,
+		"category": "Apparel",
+		"defname": "Apparel_Dropsuit"
+	},
+	{
+		"abr": "dropsuithelmet",
+		"price": 1200,
+		"category": "Headgear",
+		"defname": "Apparel_DropsuitH"
+	},
+	{
+		"abr": "dryosaurusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDryosaurusFertilized"
+	},
+	{
+		"abr": "dryosaurusegg(unfert.)",
+		"price": 17,
+		"category": "Eggs (unfert.)",
+		"defname": "EggDryosaurusUnfertilized"
+	},
+	{
+		"abr": "dryosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dryosaurus"
+	},
+	{
+		"abr": "dusabotround",
+		"price": 83,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabotDU"
+	},
+	{
+		"abr": "dummy",
+		"price": 725,
+		"category": "Security",
+		"defname": "RSDummy"
+	},
+	{
+		"abr": "dunealiskegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_DunealiskEggFertilized"
+	},
+	{
+		"abr": "dunealiskegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_DunealiskEggUnfertilized"
+	},
+	{
+		"abr": "eggplant",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Raweggplant"
+	},
+	{
+		"abr": "elasmotheriumhorn",
+		"price": 2500,
+		"category": "Items",
+		"defname": "ElasmotheriumHorn"
+	},
+	{
+		"abr": "elasmotheriumwool",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "ElasmotheriumWool"
+	},
+	{
+		"abr": "electricloom",
+		"price": 525,
+		"category": "Production",
+		"defname": "TableElecLoom"
+	},
+	{
+		"abr": "electricmillingstone",
+		"price": 276,
+		"category": "Production",
+		"defname": "ElectricGrindStone"
+	},
+	{
+		"abr": "electricoven",
+		"price": 367,
+		"category": "Production",
+		"defname": "ElectricOven"
+	},
+	{
+		"abr": "electricrepairbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "ElectricTableRepair"
+	},
+	{
+		"abr": "emprifle",
+		"price": 1883,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMPRifle"
+	},
+	{
+		"abr": "endtable",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "Anon2EndTable"
+	},
+	{
+		"abr": "endtable(lamp)",
+		"price": 135,
+		"category": "Furniture",
+		"defname": "Anon2EndTableLight"
+	},
+	{
+		"abr": "energycrucible",
+		"price": 2242,
+		"category": "Production",
+		"defname": "FedTable"
+	},
+	{
+		"abr": "equipmentassemblyfacility",
+		"price": 608,
+		"category": "Production",
+		"defname": "GDTable"
+	},
+	{
+		"abr": "ers",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ERS"
+	},
+	{
+		"abr": "exo-frame",
+		"price": 2083,
+		"category": "Apparel",
+		"defname": "Apparel_Exoframe"
+	},
+	{
+		"abr": "fabrichamper",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "Storage_FabricHamper"
+	},
+	{
+		"abr": "federationjumpsuit",
+		"price": 408,
+		"category": "Apparel",
+		"defname": "FedSuit"
+	},
+	{
+		"abr": "feralanti-materialrifle",
+		"price": 617,
+		"category": "Ranged weapons",
+		"defname": "Gun_Crucifier"
+	},
+	{
+		"abr": "feralcrankgun",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "Gun_SkullBuster"
+	},
+	{
+		"abr": "feralexosuit",
+		"price": 6000,
+		"category": "Apparel",
+		"defname": "Apparel_FeralExo"
+	},
+	{
+		"abr": "feralexosuithelmet",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "Apparel_FeralExoH"
+	},
+	{
+		"abr": "feralflamethrower",
+		"price": 658,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scorcher"
+	},
+	{
+		"abr": "feralgasmask",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_ScorcherHelmet"
+	},
+	{
+		"abr": "feralhelmet",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_GrinderHelmet"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_HuskerHood"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_SkulkerHood"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_ThumperHood"
+	},
+	{
+		"abr": "feralmail",
+		"price": 667,
+		"category": "Apparel",
+		"defname": "Apparel_FeralMail"
+	},
+	{
+		"abr": "feralnailgun",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "Gun_Gnasher"
+	},
+	{
+		"abr": "feralpistols",
+		"price": 125,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scraptooth"
+	},
+	{
+		"abr": "feralratsticks",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "Gun_RatStick"
+	},
+	{
+		"abr": "feralrifle",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thrasher"
+	},
+	{
+		"abr": "feralrocketlauncher",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thumper"
+	},
+	{
+		"abr": "feralscattergun",
+		"price": 233,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterStick"
+	},
+	{
+		"abr": "feralsubmachineguns",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "Gun_Deathdealer"
+	},
+	{
+		"abr": "feraliskegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_FeraliskEggFertilized"
+	},
+	{
+		"abr": "feraliskegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_FeraliskEggUnfertilized"
+	},
+	{
+		"abr": "fertilizer",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "RawFertilizer"
+	},
+	{
+		"abr": "fig",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawfig"
+	},
+	{
+		"abr": "figsoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "FigSoda"
+	},
+	{
+		"abr": "filecabinet",
+		"price": 74,
+		"category": "Furniture",
+		"defname": "Anon2FileCabinet"
+	},
+	{
+		"abr": "firesupportarmor",
+		"price": 4217,
+		"category": "Apparel",
+		"defname": "Apparel_FSArmor"
+	},
+	{
+		"abr": "firesupporthelmet",
+		"price": 1317,
+		"category": "Headgear",
+		"defname": "Apparel_FSArmorH"
+	},
+	{
+		"abr": "fissionmousemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_FissionMouse"
+	},
+	{
+		"abr": "flour",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "Flour"
+	},
+	{
+		"abr": "fluez",
+		"price": 37,
+		"category": "Drugs",
+		"defname": "VG_FluEz"
+	},
+	{
+		"abr": "foerum",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "Foerum"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "Storage_Basket"
+	},
+	{
+		"abr": "foodpreptable",
+		"price": 139,
+		"category": "Production",
+		"defname": "Canningstove"
+	},
+	{
+		"abr": "frontierrifle",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "Gun_FR"
+	},
+	{
+		"abr": "fruitdrink",
+		"price": 12,
+		"category": "Sweets",
+		"defname": "Fruitdrink"
+	},
+	{
+		"abr": "fruitkvass",
+		"price": 23,
+		"category": "Garden soda",
+		"defname": "FruitKvass"
+	},
+	{
+		"abr": "fruitkvasswort",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_FruitKvassWort"
+	},
+	{
+		"abr": "fruitmash",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_FruitMash"
+	},
+	{
+		"abr": "fruitpieslice",
+		"price": 42,
+		"category": "Simple Meals",
+		"defname": "BlueberryPie"
+	},
+	{
+		"abr": "fruitshine",
+		"price": 32,
+		"category": "Garden alcohol",
+		"defname": "Fruitshine"
+	},
+	{
+		"abr": "fuelbarrel",
+		"price": 350,
+		"category": "Security",
+		"defname": "FuelBarrel"
+	},
+	{
+		"abr": "fuelrods",
+		"price": 2000,
+		"category": "Nuclear fuel",
+		"defname": "FuelRods"
+	},
+	{
+		"abr": "fuelrodsmox",
+		"price": 4167,
+		"category": "Nuclear fuel",
+		"defname": "FuelRodsMOX"
+	},
+	{
+		"abr": "fueledfoodpreptable",
+		"price": 139,
+		"category": "Production",
+		"defname": "HandCanningstove"
+	},
+	{
+		"abr": "fueledsweetstable",
+		"price": 217,
+		"category": "Production",
+		"defname": "FueledCandyTable"
+	},
+	{
+		"abr": "gallatrosshorn",
+		"price": 2000,
+		"category": "Items",
+		"defname": "AA_GallatrossHorn"
+	},
+	{
+		"abr": "gallatrossleather",
+		"price": 27,
+		"category": "Leathers",
+		"defname": "Leather_Gallatross"
+	},
+	{
+		"abr": "gallatrossmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Gallatross"
+	},
+	{
+		"abr": "gallimimusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggGallimimusFertilized"
+	},
+	{
+		"abr": "gallimimusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gallimimus"
+	},
+	{
+		"abr": "gardencoffee",
+		"price": 13,
+		"category": "Sweets",
+		"defname": "Coffee"
+	},
+	{
+		"abr": "gardentea",
+		"price": 13,
+		"category": "Sweets",
+		"defname": "Cuptea"
+	},
+	{
+		"abr": "gate(2x1)",
+		"price": 608,
+		"category": "Buildings",
+		"defname": "PH_GateDoubleThick"
+	},
+	{
+		"abr": "gdbuckshotlauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_BSLauncher"
+	},
+	{
+		"abr": "gdhvsmg",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "GD_HVSMG"
+	},
+	{
+		"abr": "gdincendiarylauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_INGrenadeLauncher"
+	},
+	{
+		"abr": "gdmultilauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_GrenadeLauncher"
+	},
+	{
+		"abr": "gdsmokelauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_SKGrenadeLauncher"
+	},
+	{
+		"abr": "gigantelopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Gigantelope"
+	},
+	{
+		"abr": "gigantophisegg(fert.)",
+		"price": 300,
+		"category": "Eggs (fert.)",
+		"defname": "EggGigantophisFertilized"
+	},
+	{
+		"abr": "gigantoraptoregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggGigantoraptorFertilized"
+	},
+	{
+		"abr": "gigantoraptormeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gigantoraptor"
+	},
+	{
+		"abr": "glaive",
+		"price": 358,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralGlaive"
+	},
+	{
+		"abr": "goldfernleaves",
+		"price": 6,
+		"category": "Resource plants",
+		"defname": "RawGoldLeaf"
+	},
+	{
+		"abr": "gooseberry",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawgooseberry"
+	},
+	{
+		"abr": "gooseberrysoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "GooseberrySoda"
+	},
+	{
+		"abr": "grapesoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "GrapeSoda"
+	},
+	{
+		"abr": "grapes",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawgrape"
+	},
+	{
+		"abr": "greatdevoureregg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_GreatDevourerEggFertilized"
+	},
+	{
+		"abr": "greatdevoureregg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_GreatDevourerEggUnfertilized"
+	},
+	{
+		"abr": "greatdevourermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_GreatDevourer"
+	},
+	{
+		"abr": "grilledcheesesandwich",
+		"price": 33,
+		"category": "Simple Meals",
+		"defname": "grilledcheese"
+	},
+	{
+		"abr": "grilledkabob",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Kabob"
+	},
+	{
+		"abr": "grilledpolenta",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "grilledpolenta"
+	},
+	{
+		"abr": "grilledsteak",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Grilledsteak"
+	},
+	{
+		"abr": "grilledvegetables",
+		"price": 30,
+		"category": "Simple Meals",
+		"defname": "Grilledveg"
+	},
+	{
+		"abr": "groundrunnermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Groundrunner"
+	},
+	{
+		"abr": "guncomplex",
+		"price": 1142,
+		"category": "Security",
+		"defname": "GunComplex"
+	},
+	{
+		"abr": "hardcandy",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Hardcandy"
+	},
+	{
+		"abr": "hazardcarapace",
+		"price": 4058,
+		"category": "Apparel",
+		"defname": "Apparel_HazardCarapace"
+	},
+	{
+		"abr": "hazardhelmet",
+		"price": 1108,
+		"category": "Headgear",
+		"defname": "Apparel_HazardCarapaceH"
+	},
+	{
+		"abr": "hazmatcontainer",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "Storage_HazMatContainer"
+	},
+	{
+		"abr": "heatcannon",
+		"price": 3258,
+		"category": "Federation weapons",
+		"defname": "AD_Arbiter"
+	},
+	{
+		"abr": "heatedsunlamp",
+		"price": 467,
+		"category": "Furniture",
+		"defname": "HeatedSunLamp"
+	},
+	{
+		"abr": "heavyrevolver",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Gun_PistolHeavyRevolver"
+	},
+	{
+		"abr": "hemp",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "HempCloth"
+	},
+	{
+		"abr": "hyperweavesilk",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "RB_SpunHyperweaveSilk"
+	},
+	{
+		"abr": "ibuprofen",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "VG_Ibuprofen"
+	},
+	{
+		"abr": "icecream",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "icecream"
+	},
+	{
+		"abr": "iguanodonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggIguanodonFertilized"
+	},
+	{
+		"abr": "iguanodonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Iguanodon"
+	},
+	{
+		"abr": "impactgrenades",
+		"price": 800,
+		"category": "Grenades",
+		"defname": "TE_Grief"
+	},
+	{
+		"abr": "impactmine",
+		"price": 492,
+		"category": "Security",
+		"defname": "ImpactMine"
+	},
+	{
+		"abr": "industrialfermentingbarrel",
+		"price": 433,
+		"category": "Production",
+		"defname": "VG_LargeFermentingBarrel"
+	},
+	{
+		"abr": "insectchitin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Chitin"
+	},
+	{
+		"abr": "ironchitin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_IronChitin"
+	},
+	{
+		"abr": "ironhuskbeetleegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_IronhuskEggFertilized"
+	},
+	{
+		"abr": "ironhuskbeetleegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_IronhuskEggUnfertilized"
+	},
+	{
+		"abr": "ironhuskbeetlemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_IronhuskBeetle"
+	},
+	{
+		"abr": "ironwood",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "VG_IronWoodLog"
+	},
+	{
+		"abr": "jadecrystal",
+		"price": 2,
+		"category": "Resource plants",
+		"defname": "RawJadeLeaf"
+	},
+	{
+		"abr": "jaildoor",
+		"price": 542,
+		"category": "Buildings",
+		"defname": "PH_DoorJail"
+	},
+	{
+		"abr": "jiamr",
+		"price": 2142,
+		"category": "JI weapons",
+		"defname": "JI_Gramr"
+	},
+	{
+		"abr": "jimoltenpistol",
+		"price": 900,
+		"category": "JI weapons",
+		"defname": "JI_Trollsverd"
+	},
+	{
+		"abr": "jimoltenrifle",
+		"price": 1583,
+		"category": "JI weapons",
+		"defname": "JI_Hrunting"
+	},
+	{
+		"abr": "jisiegegun",
+		"price": 4142,
+		"category": "JI weapons",
+		"defname": "JI_Grendel"
+	},
+	{
+		"abr": "jisiegeshotgun",
+		"price": 2017,
+		"category": "JI weapons",
+		"defname": "JI_Fafnir"
+	},
+	{
+		"abr": "jisuppressorcannon",
+		"price": 2183,
+		"category": "JI weapons",
+		"defname": "JI_Muspell"
+	},
+	{
+		"abr": "josephoartigasiameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Josephoartigasia"
+	},
+	{
+		"abr": "josephoartigasiawool",
+		"price": 6,
+		"category": "Textiles",
+		"defname": "JosephoartigasiaWool"
+	},
+	{
+		"abr": "kangaroomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Procoptodon"
+	},
+	{
+		"abr": "kineticfieldmanipulator",
+		"price": 1142,
+		"category": "Production",
+		"defname": "TETable"
+	},
+	{
+		"abr": "kiwi",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawKiwi"
+	},
+	{
+		"abr": "kiwisoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "KiwiSoda"
+	},
+	{
+		"abr": "kvasssoda",
+		"price": 23,
+		"category": "Garden soda",
+		"defname": "KvassSoda"
+	},
+	{
+		"abr": "kvasssodawort",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_KvassSodaWort"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(blue)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigBlue"
+	},
+	{
+		"abr": "largedoormat(green)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigGreen"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(red)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigTeal"
+	},
+	{
+		"abr": "lensmodule",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "LenseModule"
+	},
+	{
+		"abr": "linencloth",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "Flaxcloth"
+	},
+	{
+		"abr": "lizardmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Megalania"
+	},
+	{
+		"abr": "lockjawmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Lockjaw"
+	},
+	{
+		"abr": "macraucheniameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Macrauchenia"
+	},
+	{
+		"abr": "madness",
+		"price": 4167,
+		"category": "Grenades",
+		"defname": "Weapon_MADness"
+	},
+	{
+		"abr": "magneticforge",
+		"price": 1225,
+		"category": "Production",
+		"defname": "JITable"
+	},
+	{
+		"abr": "magneticshield",
+		"price": 1633,
+		"category": "Power",
+		"defname": "Building_RTMagneticShield"
+	},
+	{
+		"abr": "magyarosaurusegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "EggMagyarosaurusFertilized"
+	},
+	{
+		"abr": "magyarosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Magyarosaurus"
+	},
+	{
+		"abr": "makeshiftcruciblerifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Gun_MCrucibleRifle"
+	},
+	{
+		"abr": "makiroll",
+		"price": 35,
+		"category": "Fine Meals",
+		"defname": "MakiRoll"
+	},
+	{
+		"abr": "makivegetarianroll",
+		"price": 35,
+		"category": "Simple Meals",
+		"defname": "MakiVegRoll"
+	},
+	{
+		"abr": "mammothtusk",
+		"price": 1167,
+		"category": "Items",
+		"defname": "MammothTusk"
+	},
+	{
+		"abr": "mammothwool",
+		"price": 6,
+		"category": "Textiles",
+		"defname": "MammothWool"
+	},
+	{
+		"abr": "mammothwormegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_MammothWormEggFertilized"
+	},
+	{
+		"abr": "mammothwormegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_MammothWormEggUnfertilized"
+	},
+	{
+		"abr": "mango",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawMango"
+	},
+	{
+		"abr": "mangosoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "MangoSoda"
+	},
+	{
+		"abr": "mannedblastturret",
+		"price": 1567,
+		"category": "Security",
+		"defname": "BlastTurretGunManned"
+	},
+	{
+		"abr": "mannedmilitarygradeturret",
+		"price": 958,
+		"category": "Security",
+		"defname": "MilitaryTurretGunManned"
+	},
+	{
+		"abr": "mannedprecisionturret",
+		"price": 1400,
+		"category": "Security",
+		"defname": "PrecisionTurretGunManned"
+	},
+	{
+		"abr": "mannedshredderturret",
+		"price": 1400,
+		"category": "Security",
+		"defname": "ShredderTurretGunManned"
+	},
+	{
+		"abr": "marksmangear",
+		"price": 2842,
+		"category": "Apparel",
+		"defname": "Apparel_MarksmanGear"
+	},
+	{
+		"abr": "marksmangearhelmet",
+		"price": 1208,
+		"category": "Headgear",
+		"defname": "Apparel_MarksmanGearH"
+	},
+	{
+		"abr": "meadowaveegg(fert.)",
+		"price": 32,
+		"category": "Eggs (fert.)",
+		"defname": "AA_EggMeadowAveFertilized"
+	},
+	{
+		"abr": "meadowavemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_MeadowAve"
+	},
+	{
+		"abr": "meatpie",
+		"price": 20,
+		"category": "Simple Meals",
+		"defname": "meatpie"
+	},
+	{
+		"abr": "medicinalcactipinequill",
+		"price": 17,
+		"category": "Medicine",
+		"defname": "AA_CactipineQuill"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "Storage_MedicineCabinet"
+	},
+	{
+		"abr": "megalaniaegg(fert.)",
+		"price": 150,
+		"category": "Eggs (fert.)",
+		"defname": "EggMegalaniaFertilized"
+	},
+	{
+		"abr": "megalocerosantlers",
+		"price": 2083,
+		"category": "Items",
+		"defname": "MegalocerosAntlers"
+	},
+	{
+		"abr": "megalochelysegg(fert.)",
+		"price": 267,
+		"category": "Eggs (fert.)",
+		"defname": "EggMegalochelysFertilized"
+	},
+	{
+		"abr": "megalouseegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_MegalouseEggFertilized"
+	},
+	{
+		"abr": "megalouseegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_MegalouseEggUnfertilized"
+	},
+	{
+		"abr": "meganeuraegg(fert.)",
+		"price": 117,
+		"category": "Eggs (fert.)",
+		"defname": "EggMeganeuraFertilized"
+	},
+	{
+		"abr": "meps",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "MEPS"
+	},
+	{
+		"abr": "microwavegrenades",
+		"price": 800,
+		"category": "Grenades",
+		"defname": "YP_BaegYa"
+	},
+	{
+		"abr": "militarygradeturret",
+		"price": 1108,
+		"category": "Security",
+		"defname": "MilitaryTurretGun"
+	},
+	{
+		"abr": "militiarifle",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "Gun_MilitiaRifle"
+	},
+	{
+		"abr": "millingstone",
+		"price": 166,
+		"category": "Production",
+		"defname": "GrindStone"
+	},
+	{
+		"abr": "minigrenades",
+		"price": 575,
+		"category": "Grenades",
+		"defname": "GD_Bobcat"
+	},
+	{
+		"abr": "miniheatedsunlamp",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "HeatedMiniSunLamp"
+	},
+	{
+		"abr": "minisunlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "MiniSunLamp"
+	},
+	{
+		"abr": "minmiegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMinmiFertilized"
+	},
+	{
+		"abr": "minmimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Minmi"
+	},
+	{
+		"abr": "missilefuselage",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "MissileFuselage"
+	},
+	{
+		"abr": "missilelauncher",
+		"price": 1092,
+		"category": "Security",
+		"defname": "NestMissile"
+	},
+	{
+		"abr": "modularacceleratorkit",
+		"price": 858,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitH"
+	},
+	{
+		"abr": "modularcarbine",
+		"price": 675,
+		"category": "GD weapons",
+		"defname": "GD_ModularCarbine"
+	},
+	{
+		"abr": "modulardmr",
+		"price": 1017,
+		"category": "GD weapons",
+		"defname": "GD_ModularDMR"
+	},
+	{
+		"abr": "modularflakker",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSSF"
+	},
+	{
+		"abr": "modularhybridpistol",
+		"price": 1467,
+		"category": "GD weapons",
+		"defname": "GD_MSSH"
+	},
+	{
+		"abr": "modularhybridrifle",
+		"price": 1533,
+		"category": "GD weapons",
+		"defname": "GD_HybridRifle"
+	},
+	{
+		"abr": "modularlmg",
+		"price": 1017,
+		"category": "GD weapons",
+		"defname": "GD_ModularLMG"
+	},
+	{
+		"abr": "modularrifle",
+		"price": 900,
+		"category": "GD weapons",
+		"defname": "GD_ModularRifle"
+	},
+	{
+		"abr": "modularsidearmsystemkit",
+		"price": 608,
+		"category": "Modular conversion kit",
+		"defname": "MSSKit"
+	},
+	{
+		"abr": "modularspitfire",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSSS"
+	},
+	{
+		"abr": "modulartriple-shot",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSST"
+	},
+	{
+		"abr": "moltenshell",
+		"price": 6,
+		"category": "Molten shells",
+		"defname": "MoltenShell"
+	},
+	{
+		"abr": "moppmask(desert)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskDesert"
+	},
+	{
+		"abr": "moppmask(snow)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskSnow"
+	},
+	{
+		"abr": "moppmask(woodland)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskWoodland"
+	},
+	{
+		"abr": "moppsuit(desert)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitDesert"
+	},
+	{
+		"abr": "moppsuit(snow)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitSnow"
+	},
+	{
+		"abr": "moppsuit(woodland)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitWoodland"
+	},
+	{
+		"abr": "mrsdmrconversionkit",
+		"price": 342,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitM"
+	},
+	{
+		"abr": "mrslmgconversionkit",
+		"price": 342,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitS"
+	},
+	{
+		"abr": "mrsrifleconversionkit",
+		"price": 228,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitR"
+	},
+	{
+		"abr": "muffin",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "muffin"
+	},
+	{
+		"abr": "mushroom",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Rawmushroom"
+	},
+	{
+		"abr": "mysterysoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "MysterySoda"
+	},
+	{
+		"abr": "needlepostmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Needlepost"
+	},
+	{
+		"abr": "needlerollmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Needleroll"
+	},
+	{
+		"abr": "nervesuit",
+		"price": 3567,
+		"category": "Apparel",
+		"defname": "Apparel_Nervesuit"
+	},
+	{
+		"abr": "nervesuithelmet",
+		"price": 1117,
+		"category": "Headgear",
+		"defname": "Apparel_NervesuitH"
+	},
+	{
+		"abr": "neutroflowerpetals",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "NeutroPetals"
+	},
+	{
+		"abr": "nightlingegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "AA_EggNightlingFertilized"
+	},
+	{
+		"abr": "nightlingmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Nightling"
+	},
+	{
+		"abr": "nigiri",
+		"price": 27,
+		"category": "Simple Meals",
+		"defname": "Nigiri"
+	},
+	{
+		"abr": "nuclearwarhead",
+		"price": 24000,
+		"category": "Rimatomics Product",
+		"defname": "FissionWarhead"
+	},
+	{
+		"abr": "ocularjellymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "AA_OcularJellyMeat"
+	},
+	{
+		"abr": "ocularjellymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_OcularJelly"
+	},
+	{
+		"abr": "ogronmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Ogron"
+	},
+	{
+		"abr": "olive",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawOlive"
+	},
+	{
+		"abr": "orange",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Raworange"
+	},
+	{
+		"abr": "orangesoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "OrangeSoda"
+	},
+	{
+		"abr": "ornateplantpot",
+		"price": 122,
+		"category": "Furniture",
+		"defname": "Anon2OrnatePlantPot"
+	},
+	{
+		"abr": "ornatesquareplantpot",
+		"price": 122,
+		"category": "Furniture",
+		"defname": "Anon2OrnateSquarePlantPot"
+	},
+	{
+		"abr": "ottermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Enhydriodon"
+	},
+	{
+		"abr": "oven",
+		"price": 212,
+		"category": "Production",
+		"defname": "Oven"
+	},
+	{
+		"abr": "overgrowncolossusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_OvergrownColossus"
+	},
+	{
+		"abr": "pachycephalosaurusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPachycephalosaurusFertilized"
+	},
+	{
+		"abr": "pachycephalosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pachycephalosaurus"
+	},
+	{
+		"abr": "palaeeudyptesegg(fert.)",
+		"price": 217,
+		"category": "Eggs (fert.)",
+		"defname": "EggPalaeeudyptesFertilized"
+	},
+	{
+		"abr": "pallet",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "Storage_WoodenPallet"
+	},
+	{
+		"abr": "parasauregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggParasaurFertilized"
+	},
+	{
+		"abr": "parasaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Parasaur"
+	},
+	{
+		"abr": "patchedshirt",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_PatchedShirt"
+	},
+	{
+		"abr": "peach",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawpeach"
+	},
+	{
+		"abr": "peachsoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "PeachSoda"
+	},
+	{
+		"abr": "pebblemitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_PebbleMit"
+	},
+	{
+		"abr": "pickledvegetable",
+		"price": 22,
+		"category": "Vegetarian",
+		"defname": "PickledVeg"
+	},
+	{
+		"abr": "pileofdirt",
+		"price": 0,
+		"category": "Raw resources",
+		"defname": "VG_PileofDirt"
+	},
+	{
+		"abr": "pineapple",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawpineapple"
+	},
+	{
+		"abr": "pineapplesoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "PineappleSoda"
+	},
+	{
+		"abr": "pioneerarmor",
+		"price": 1950,
+		"category": "Apparel",
+		"defname": "Apparel_Laconian"
+	},
+	{
+		"abr": "pioneerhelmet",
+		"price": 967,
+		"category": "Headgear",
+		"defname": "Apparel_LaconianH"
+	},
+	{
+		"abr": "pizza",
+		"price": 42,
+		"category": "Lavish Meals",
+		"defname": "pizza"
+	},
+	{
+		"abr": "plantmeat",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AA_CactusMeat"
+	},
+	{
+		"abr": "plasmacaster",
+		"price": 5817,
+		"category": "Federation weapons",
+		"defname": "AD_Axiom"
+	},
+	{
+		"abr": "plasmagrenade",
+		"price": 1500,
+		"category": "Grenades",
+		"defname": "AD_Repose"
+	},
+	{
+		"abr": "plasmarifle",
+		"price": 1133,
+		"category": "Federation weapons",
+		"defname": "AD_Sentinel"
+	},
+	{
+		"abr": "plasteelbulbchunks",
+		"price": 6,
+		"category": "Resource plants",
+		"defname": "RawPlasteelLeaf"
+	},
+	{
+		"abr": "plasteelthread",
+		"price": 3,
+		"category": "Raw textiles",
+		"defname": "VG_PlasteelThread"
+	},
+	{
+		"abr": "platybelodontusk",
+		"price": 583,
+		"category": "Items",
+		"defname": "PlatybelodonTusk"
+	},
+	{
+		"abr": "plutonium",
+		"price": 100,
+		"category": "Rimatomics Product",
+		"defname": "Plutonium"
+	},
+	{
+		"abr": "polenta",
+		"price": 23,
+		"category": "Vegetarian",
+		"defname": "RawPolenta"
+	},
+	{
+		"abr": "porridge",
+		"price": 27,
+		"category": "Simple Meals",
+		"defname": "Porridge"
+	},
+	{
+		"abr": "portablemg",
+		"price": 842,
+		"category": "Security",
+		"defname": "NestMMG"
+	},
+	{
+		"abr": "portablereactor",
+		"price": 2775,
+		"category": "Security",
+		"defname": "PortableReactor"
+	},
+	{
+		"abr": "potassiumiodide",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "PotassiumIodide"
+	},
+	{
+		"abr": "precisionturret",
+		"price": 1600,
+		"category": "Security",
+		"defname": "PrecisionTurretGun"
+	},
+	{
+		"abr": "protectivegear",
+		"price": 783,
+		"category": "Apparel",
+		"defname": "Apparel_ProtectiveGear"
+	},
+	{
+		"abr": "protectivehelmet",
+		"price": 400,
+		"category": "Headgear",
+		"defname": "Apparel_ProtectiveHelmet"
+	},
+	{
+		"abr": "protoceratopsegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggProtoceratopsFertilized"
+	},
+	{
+		"abr": "protoceratopsmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Protoceratops"
+	},
+	{
+		"abr": "pteranodonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPteranodonFertilized"
+	},
+	{
+		"abr": "pteranodonegg(unfert.)",
+		"price": 17,
+		"category": "Eggs (unfert.)",
+		"defname": "EggPteranodonUnfertilized"
+	},
+	{
+		"abr": "pteranodonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pteranodon"
+	},
+	{
+		"abr": "pterosaurskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_PterosaurSkin"
+	},
+	{
+		"abr": "pumpkin",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawpumpkin"
+	},
+	{
+		"abr": "purussaurusegg(fert.)",
+		"price": 333,
+		"category": "Eggs (fert.)",
+		"defname": "EggPurussaurusFertilized"
+	},
+	{
+		"abr": "quetzalcoatlusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggQuetzalcoatlusFertilized"
+	},
+	{
+		"abr": "quetzalcoatlusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Quetzalcoatlus"
+	},
+	{
+		"abr": "quinkanaegg(fert.)",
+		"price": 150,
+		"category": "Eggs (fert.)",
+		"defname": "EggQuinkanaFertilized"
+	},
+	{
+		"abr": "r.t.g",
+		"price": 4333,
+		"category": "Nuclear",
+		"defname": "RimatomicsRTG"
+	},
+	{
+		"abr": "radiationmask",
+		"price": 244,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationMask"
+	},
+	{
+		"abr": "radiationsuit",
+		"price": 383,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationSuit"
+	},
+	{
+		"abr": "radyakmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Radyak"
+	},
+	{
+		"abr": "raptorleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Raptor"
+	},
+	{
+		"abr": "raptorshrimpmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_RaptorShrimp"
+	},
+	{
+		"abr": "raptorshrimpplates",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_RaptorPlates"
+	},
+	{
+		"abr": "rawdevilstrand",
+		"price": 5,
+		"category": "Raw textiles",
+		"defname": "RawDevilstrand"
+	},
+	{
+		"abr": "rawflax",
+		"price": 4,
+		"category": "Raw textiles",
+		"defname": "RawFlax"
+	},
+	{
+		"abr": "razortoothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Razortooth"
+	},
+	{
+		"abr": "redlentil",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RawRedLentil"
+	},
+	{
+		"abr": "redwood",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "GU_RedWood"
+	},
+	{
+		"abr": "redhide",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Redhide"
+	},
+	{
+		"abr": "reflactorcarapace",
+		"price": 3350,
+		"category": "Apparel",
+		"defname": "Apparel_Nemesis"
+	},
+	{
+		"abr": "reflactorhelmet",
+		"price": 1117,
+		"category": "Headgear",
+		"defname": "Apparel_NemesisH"
+	},
+	{
+		"abr": "remotedoor(1x1)",
+		"price": 241,
+		"category": "Buildings",
+		"defname": "PH_DoorRemoteSingle"
+	},
+	{
+		"abr": "remotedoor(2x1)",
+		"price": 475,
+		"category": "Buildings",
+		"defname": "PH_DoorRemoteDouble"
+	},
+	{
+		"abr": "repairkit",
+		"price": 6,
+		"category": "Manufactured",
+		"defname": "RepairKit"
+	},
+	{
+		"abr": "repeatingrifle",
+		"price": 517,
+		"category": "Ranged weapons",
+		"defname": "Gun_Repeater"
+	},
+	{
+		"abr": "ricemash",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "CPD_RiceMash"
+	},
+	{
+		"abr": "riotgear",
+		"price": 4375,
+		"category": "Apparel",
+		"defname": "Apparel_Judicator"
+	},
+	{
+		"abr": "riotgearhelmet",
+		"price": 1792,
+		"category": "Headgear",
+		"defname": "Apparel_JudicatorH"
+	},
+	{
+		"abr": "rocketcomplex",
+		"price": 1192,
+		"category": "Security",
+		"defname": "RocketComplex"
+	},
+	{
+		"abr": "rocketengine",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "RocketEngine"
+	},
+	{
+		"abr": "royalendtable",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "Anon2RoyalEndTable"
+	},
+	{
+		"abr": "royalendtable(lamp)",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "Anon2RoyalEndTableLight"
+	},
+	{
+		"abr": "rum",
+		"price": 37,
+		"category": "Garden alcohol",
+		"defname": "rum"
+	},
+	{
+		"abr": "sabotround",
+		"price": 17,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabot"
+	},
+	{
+		"abr": "sake",
+		"price": 32,
+		"category": "Garden alcohol",
+		"defname": "saki"
+	},
+	{
+		"abr": "salt",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "ChunkSalt"
+	},
+	{
+		"abr": "saltedmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "SaltedMeat"
+	},
+	{
+		"abr": "sandlionfur",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "AA_SandLion_Leather"
+	},
+	{
+		"abr": "sandlionmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_SandLion"
+	},
+	{
+		"abr": "sandsquidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_SandSquid"
+	},
+	{
+		"abr": "satchelcharge",
+		"price": 1017,
+		"category": "Grenades",
+		"defname": "JI_Dunder"
+	},
+	{
+		"abr": "sauropodleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Sauropod"
+	},
+	{
+		"abr": "scad",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "SCAD"
+	},
+	{
+		"abr": "scattercharger",
+		"price": 1700,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterCharger"
+	},
+	{
+		"abr": "scavbench",
+		"price": 286,
+		"category": "Production",
+		"defname": "FeralTable"
+	},
+	{
+		"abr": "scraparmor",
+		"price": 500,
+		"category": "Apparel",
+		"defname": "Apparel_ScrapArmor"
+	},
+	{
+		"abr": "sentientplantskin",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Cactus"
+	},
+	{
+		"abr": "shadarkmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Shadark"
+	},
+	{
+		"abr": "shardsentry",
+		"price": 1433,
+		"category": "Security",
+		"defname": "ShardSentry"
+	},
+	{
+		"abr": "shockgoatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_ShockGoat"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 1600,
+		"category": "Security",
+		"defname": "ShredderTurretGun"
+	},
+	{
+		"abr": "silage",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Silage"
+	},
+	{
+		"abr": "silverflowerpetals",
+		"price": 0,
+		"category": "Resource plants",
+		"defname": "RawSilverLeaf"
+	},
+	{
+		"abr": "sivatheriummeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Sivatherium"
+	},
+	{
+		"abr": "sivatheriummilk",
+		"price": 12,
+		"category": "Animal products",
+		"defname": "SivatheriumMilk"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "Storage_Skip"
+	},
+	{
+		"abr": "skysteel",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "AA_SkySteel"
+	},
+	{
+		"abr": "slurrypedemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Slurrypede"
+	},
+	{
+		"abr": "smallheatedsunlamp",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "HeatedSmallSunLamp"
+	},
+	{
+		"abr": "smallsunlamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "SmallSunLamp"
+	},
+	{
+		"abr": "smartmachinegun",
+		"price": 1408,
+		"category": "Ranged weapons",
+		"defname": "SmartMG"
+	},
+	{
+		"abr": "smartpistol",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartPistol"
+	},
+	{
+		"abr": "smartrifle",
+		"price": 2483,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartRifle"
+	},
+	{
+		"abr": "smartsmg",
+		"price": 767,
+		"category": "Ranged weapons",
+		"defname": "Gun_SMG"
+	},
+	{
+		"abr": "smartsniperrifle",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartSniperRifle"
+	},
+	{
+		"abr": "smilodonfangs",
+		"price": 1333,
+		"category": "Items",
+		"defname": "SmilodonFangs"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 358,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeSmoke"
+	},
+	{
+		"abr": "smokedmeat",
+		"price": 5,
+		"category": "Meat",
+		"defname": "Tam_SmokedMeat"
+	},
+	{
+		"abr": "smoothie",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "smoothie"
+	},
+	{
+		"abr": "snakemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Titanoboa"
+	},
+	{
+		"abr": "snowbeet",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "sodatable",
+		"price": 302,
+		"category": "Production",
+		"defname": "CPD_DrinksTable"
+	},
+	{
+		"abr": "soylentblue",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentblue"
+	},
+	{
+		"abr": "soylentgreen",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentgreen"
+	},
+	{
+		"abr": "soylentpurple",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentpurple"
+	},
+	{
+		"abr": "soylentred",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "soylentred"
+	},
+	{
+		"abr": "soylentyellow",
+		"price": 2,
+		"category": "Animal products",
+		"defname": "soylentyellow"
+	},
+	{
+		"abr": "spinosaurusegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "EggSpinosaurusFertilized"
+	},
+	{
+		"abr": "spinosaurusleather",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Leather_Spinosaurus"
+	},
+	{
+		"abr": "spinosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Spinosaurus"
+	},
+	{
+		"abr": "squarediningchair",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "Anon2SquareDiningChair"
+	},
+	{
+		"abr": "squareplantpot",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "Anon2SquarePlantPot"
+	},
+	{
+		"abr": "squash",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsquash"
+	},
+	{
+		"abr": "standinglamp(aqua)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Aqua"
+	},
+	{
+		"abr": "standinglamp(lime)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Lime"
+	},
+	{
+		"abr": "standinglamp(magenta)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Magenta"
+	},
+	{
+		"abr": "standinglamp(orange)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Orange"
+	},
+	{
+		"abr": "standinglamp(purple)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Purple"
+	},
+	{
+		"abr": "standinglamp(yellow)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Yellow"
+	},
+	{
+		"abr": "steelshrooms",
+		"price": 1,
+		"category": "Resource plants",
+		"defname": "RawSteelLeaf"
+	},
+	{
+		"abr": "stegosaurusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggStegosaurusFertilized"
+	},
+	{
+		"abr": "stegosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Stegosaurus"
+	},
+	{
+		"abr": "stirfry",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "stygimolochegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggStygimolochFertilized"
+	},
+	{
+		"abr": "stygimolochmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Stygimoloch"
+	},
+	{
+		"abr": "sugar",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "Sugar"
+	},
+	{
+		"abr": "sugarcane",
+		"price": 3,
+		"category": "Ingredients",
+		"defname": "Rawsugarcane"
+	},
+	{
+		"abr": "sugarcanemash",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_CaneMash"
+	},
+	{
+		"abr": "summitcrabmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_SummitCrab"
+	},
+	{
+		"abr": "surveillanceturret",
+		"price": 1558,
+		"category": "Security",
+		"defname": "SuvTurret"
+	},
+	{
+		"abr": "survivalknife",
+		"price": 342,
+		"category": "Melee weapons",
+		"defname": "TE_Eris"
+	},
+	{
+		"abr": "sweetbun",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "sweetbun"
+	},
+	{
+		"abr": "sweetstable",
+		"price": 217,
+		"category": "Production",
+		"defname": "CandyTable"
+	},
+	{
+		"abr": "syntheticmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bion_Base"
+	},
+	{
+		"abr": "synthreadsilk",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "RB_SpunSynthreadSilk"
+	},
+	{
+		"abr": "syrup",
+		"price": 13,
+		"category": "Sweets",
+		"defname": "CPD_Syrup"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 54,
+		"category": "Furniture",
+		"defname": "Anon2TableTiny"
+	},
+	{
+		"abr": "tacos",
+		"price": 25,
+		"category": "Fine Meals",
+		"defname": "Tacos"
+	},
+	{
+		"abr": "tacticalhelmet",
+		"price": 533,
+		"category": "Headgear",
+		"defname": "Apparel_TacHelmet"
+	},
+	{
+		"abr": "tacticalpistol",
+		"price": 433,
+		"category": "Ranged weapons",
+		"defname": "GD_TacticalPistol"
+	},
+	{
+		"abr": "tacticalvest",
+		"price": 875,
+		"category": "Apparel",
+		"defname": "Apparel_TacVest"
+	},
+	{
+		"abr": "taffy",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Taffy"
+	},
+	{
+		"abr": "tailor'sloom",
+		"price": 277,
+		"category": "Production",
+		"defname": "TableLoom"
+	},
+	{
+		"abr": "targetingchip",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "TargetingChip"
+	},
+	{
+		"abr": "tekineticlance",
+		"price": 2942,
+		"category": "TE weapons",
+		"defname": "TE_KineticLance"
+	},
+	{
+		"abr": "tekineticlongrifle",
+		"price": 1933,
+		"category": "TE weapons",
+		"defname": "TE_KineticLongRifle"
+	},
+	{
+		"abr": "tekineticpistol",
+		"price": 900,
+		"category": "TE weapons",
+		"defname": "TE_KineticPistol"
+	},
+	{
+		"abr": "tekineticrifle",
+		"price": 1700,
+		"category": "TE weapons",
+		"defname": "TE_KineticRifle"
+	},
+	{
+		"abr": "testormcannon",
+		"price": 2950,
+		"category": "TE weapons",
+		"defname": "TE_StormCannon"
+	},
+	{
+		"abr": "tethuddgun",
+		"price": 2075,
+		"category": "TE weapons",
+		"defname": "TE_ThuddGun"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "tequila",
+		"price": 40,
+		"category": "Garden alcohol",
+		"defname": "tequila"
+	},
+	{
+		"abr": "tetraslugmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_TetraSlug"
+	},
+	{
+		"abr": "therapycouch",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "Couch"
+	},
+	{
+		"abr": "therizinosaurusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTherizinosaurusFertilized"
+	},
+	{
+		"abr": "therizinosaurusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Therizinosaurus"
+	},
+	{
+		"abr": "theropodleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Theropod"
+	},
+	{
+		"abr": "throwingaxes",
+		"price": 550,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThrowingAxes"
+	},
+	{
+		"abr": "throwingclubs",
+		"price": 163,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThrowingClubs"
+	},
+	{
+		"abr": "titanisegg(fert.)",
+		"price": 133,
+		"category": "Eggs (fert.)",
+		"defname": "EggTitanisFertilized"
+	},
+	{
+		"abr": "titanoboaegg(fert.)",
+		"price": 333,
+		"category": "Eggs (fert.)",
+		"defname": "EggTitanoboaFertilized"
+	},
+	{
+		"abr": "tobacco",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RawTobacco"
+	},
+	{
+		"abr": "tofu",
+		"price": 23,
+		"category": "Meat",
+		"defname": "Rawtofu"
+	},
+	{
+		"abr": "tomatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawTomatoes"
+	},
+	{
+		"abr": "torchsword",
+		"price": 1242,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_TorchSword"
+	},
+	{
+		"abr": "trayrack",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "Storage_TrayRack"
+	},
+	{
+		"abr": "triceratopsegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTriceratopsFertilized"
+	},
+	{
+		"abr": "triceratopshorn",
+		"price": 1917,
+		"category": "Items",
+		"defname": "TriceratopsHorn"
+	},
+	{
+		"abr": "triceratopsmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Triceratops"
+	},
+	{
+		"abr": "turbineblades",
+		"price": 2,
+		"category": "Rimatomics Product",
+		"defname": "turbineBlade"
+	},
+	{
+		"abr": "twistedmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Twisted"
+	},
+	{
+		"abr": "tyrannosaurusleather",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Leather_Tyrannosaurus"
+	},
+	{
+		"abr": "tyrannosaurusrexegg(fert.)",
+		"price": 233,
+		"category": "Eggs (fert.)",
+		"defname": "EggTyrannosaurusRexFertilized"
+	},
+	{
+		"abr": "tyrannosaurusrexmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TyrannosaurusRex"
+	},
+	{
+		"abr": "tyrannosaurusrexskull",
+		"price": 2500,
+		"category": "Items",
+		"defname": "TyrannosaurusRexSkull"
+	},
+	{
+		"abr": "uintatheriummeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Uintatherium"
+	},
+	{
+		"abr": "undistilledvodka",
+		"price": 3,
+		"category": "Alcohol precursor",
+		"defname": "CPD_VodkaPrecursor"
+	},
+	{
+		"abr": "unityguardcloak",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_UGCloak"
+	},
+	{
+		"abr": "unityguardcuraiss",
+		"price": 2325,
+		"category": "Apparel",
+		"defname": "Apparel_UGCuirass"
+	},
+	{
+		"abr": "unityguardhelmet",
+		"price": 1517,
+		"category": "Headgear",
+		"defname": "Apparel_UGHelmet"
+	},
+	{
+		"abr": "unrefineduraniumcrystals",
+		"price": 108,
+		"category": "Raw resources",
+		"defname": "AA_UraniumCrystals"
+	},
+	{
+		"abr": "uraniumpellets",
+		"price": 3,
+		"category": "Rimatomics Product",
+		"defname": "UraniumPellets"
+	},
+	{
+		"abr": "uraniumrootbulbs",
+		"price": 2,
+		"category": "Resource plants",
+		"defname": "RawUraniumLeaf"
+	},
+	{
+		"abr": "utahraptoregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggUtahraptorFertilized"
+	},
+	{
+		"abr": "utahraptormeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Utahraptor"
+	},
+	{
+		"abr": "veganeggsubstitute",
+		"price": 3,
+		"category": "Eggs (unfert.)",
+		"defname": "VeganEgg"
+	},
+	{
+		"abr": "velociraptoregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggVelociraptorFertilized"
+	},
+	{
+		"abr": "velociraptormeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Velociraptor"
+	},
+	{
+		"abr": "vibrodaggers",
+		"price": 1325,
+		"category": "Melee weapons",
+		"defname": "YP_BingJu"
+	},
+	{
+		"abr": "vodka",
+		"price": 25,
+		"category": "Garden alcohol",
+		"defname": "vodka"
+	},
+	{
+		"abr": "walrusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gomphotaria"
+	},
+	{
+		"abr": "watermelon",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawwatermelon"
+	},
+	{
+		"abr": "watermelonsoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "WatermelonSoda"
+	},
+	{
+		"abr": "waveemitter",
+		"price": 1933,
+		"category": "Security",
+		"defname": "WaveEmitter"
+	},
+	{
+		"abr": "wheat",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Rawwheat"
+	},
+	{
+		"abr": "whisky",
+		"price": 32,
+		"category": "Garden alcohol",
+		"defname": "whisky"
+	},
+	{
+		"abr": "wildpawnmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Wildpawn"
+	},
+	{
+		"abr": "wildpawnsporeclump(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_WildpawnSpores"
+	},
+	{
+		"abr": "wildpodmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Wildpod"
+	},
+	{
+		"abr": "wildpodsporeclump(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_WildpodSpores"
+	},
+	{
+		"abr": "wine",
+		"price": 50,
+		"category": "Garden alcohol",
+		"defname": "Wine"
+	},
+	{
+		"abr": "winemust",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_GrapeMust"
+	},
+	{
+		"abr": "woolcloth",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "WoolCloth"
+	},
+	{
+		"abr": "woolloom",
+		"price": 148,
+		"category": "Production",
+		"defname": "BenchWoolLoom"
+	},
+	{
+		"abr": "yogurt",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "yogurt"
+	},
+	{
+		"abr": "ypdualwieldshardpistols",
+		"price": 1842,
+		"category": "YP weapons",
+		"defname": "YP_SeolHwa"
+	},
+	{
+		"abr": "ypmicrowaveemmiter",
+		"price": 2475,
+		"category": "YP weapons",
+		"defname": "YP_GeugGwang"
+	},
+	{
+		"abr": "ypshardrifle",
+		"price": 1742,
+		"category": "YP weapons",
+		"defname": "YP_SeoLi"
+	},
+	{
+		"abr": "ypspikerifle",
+		"price": 2200,
+		"category": "YP weapons",
+		"defname": "YP_SangAe"
+	},
+	{
+		"abr": "ypswarmer",
+		"price": 1600,
+		"category": "YP weapons",
+		"defname": "YP_SagPung"
+	},
+	{
+		"abr": "ypvectorshot",
+		"price": 2300,
+		"category": "YP weapons",
+		"defname": "YP_VectorShot"
+	},
+	{
+		"abr": "yutyrannusegg(fert.)",
+		"price": 200,
+		"category": "Eggs (fert.)",
+		"defname": "EggYutyrannusFertilized"
+	},
+	{
+		"abr": "yutyrannusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Yutyrannus"
+	},
+	{
+		"abr": "zygolophodontusk",
+		"price": 1667,
+		"category": "Items",
+		"defname": "ZygolophodonTusk"
 	}
 	],
-	"total": 889
+	"total": 1534
 }
