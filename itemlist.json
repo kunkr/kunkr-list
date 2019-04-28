@@ -1485,7 +1485,7 @@
 	{
 		"abr": "gasmask4a1",
 		"price": 177,
-		"category": "Hats",
+		"category": "Masks",
 		"defname": "RNApparel_4A1Gasmask"
 	},
 	{
@@ -1497,7 +1497,7 @@
 	{
 		"abr": "halfmask",
 		"price": 177,
-		"category": "Hats",
+		"category": "Masks",
 		"defname": "RNApparel_GTAHalfMask"
 	},
 	{
@@ -3917,7 +3917,1423 @@
 		"price": 16667,
 		"category": "Advanced bionics",
 		"defname": "AdvancedPowerArm"
+	},
+	{
+		"abr": "aachoneybadger",
+		"price": 617,
+		"category": "SMG and PDW",
+		"defname": "RNGun_HoneyBadger_PDW"
+	},
+	{
+		"abr": "acr",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_ACRAR"
+	},
+	{
+		"abr": "aek-971",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AEK971AR"
+	},
+	{
+		"abr": "ak-103",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK103AR"
+	},
+	{
+		"abr": "ak-104",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK104AR"
+	},
+	{
+		"abr": "ak-12",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK12AR"
+	},
+	{
+		"abr": "ak-15",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK15AR"
+	},
+	{
+		"abr": "ak47",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK47AR"
+	},
+	{
+		"abr": "ak47gold",
+		"price": 1075,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK47GoldAR"
+	},
+	{
+		"abr": "ak74",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK74AR"
+	},
+	{
+		"abr": "ak74tactical",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AK74TacticalAR"
+	},
+	{
+		"abr": "ak-74u",
+		"price": 475,
+		"category": "SMG and PDW",
+		"defname": "RNGun_AK74U_PDW"
+	},
+	{
+		"abr": "akm",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AKMAR"
+	},
+	{
+		"abr": "akms-u",
+		"price": 475,
+		"category": "SMG and PDW",
+		"defname": "RNGun_AKMSU_PDW"
+	},
+	{
+		"abr": "aks-47",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AKS47AR"
+	},
+	{
+		"abr": "aks-74u",
+		"price": 475,
+		"category": "SMG and PDW",
+		"defname": "RNGun_AKS74U_PDW"
+	},
+	{
+		"abr": "an-94",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_AN94AR"
+	},
+	{
+		"abr": "ar-10",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_AR10DMR"
+	},
+	{
+		"abr": "as50",
+		"price": 708,
+		"category": "AMR",
+		"defname": "RNGun_AS50AMR"
+	},
+	{
+		"abr": "at4",
+		"price": 1667,
+		"category": "One-use launcher",
+		"defname": "RNEx_AT4RL"
+	},
+	{
+		"abr": "augermkii",
+		"price": 3333,
+		"category": "Spacer",
+		"defname": "RNSci_AugerMkII"
+	},
+	{
+		"abr": "augerws",
+		"price": 2125,
+		"category": "Spacer",
+		"defname": "RNSci_AugerWS"
+	},
+	{
+		"abr": "aw50",
+		"price": 1050,
+		"category": "AMR",
+		"defname": "RNGun_AW50Sn"
+	},
+	{
+		"abr": "ballisticknife",
+		"price": 53,
+		"category": "Blade and bow",
+		"defname": "RN_BallisticKnife"
+	},
+	{
+		"abr": "bm001razor",
+		"price": 1683,
+		"category": "Spacer",
+		"defname": "RNSci_BM001Razor"
+	},
+	{
+		"abr": "bm003razor",
+		"price": 2825,
+		"category": "Spacer",
+		"defname": "RNSci_BM003Razor"
+	},
+	{
+		"abr": "bullseye",
+		"price": 1683,
+		"category": "Spacer",
+		"defname": "RNSci_BullseyeMkI"
+	},
+	{
+		"abr": "bullseyemkii",
+		"price": 2825,
+		"category": "Spacer",
+		"defname": "RNSci_BullseyeMkII"
+	},
+	{
+		"abr": "c14timberwolf",
+		"price": 917,
+		"category": "Bolt action",
+		"defname": "RNGun_C14TimberwolfSn"
+	},
+	{
+		"abr": "c3a1",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_C3A1Sn"
+	},
+	{
+		"abr": "c4explosive",
+		"price": 758,
+		"category": "One-use explosive",
+		"defname": "RNThrown_C4CSGO"
+	},
+	{
+		"abr": "c7a1",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_C7A1AR"
+	},
+	{
+		"abr": "c7a2",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_C7A2AR"
+	},
+	{
+		"abr": "c8a2",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_C8A2AR"
+	},
+	{
+		"abr": "c8a3",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_C8A3AR"
+	},
+	{
+		"abr": "c8sfw",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_C8SFWAR"
+	},
+	{
+		"abr": "c8sfwsd",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_C8SFWSDAR"
+	},
+	{
+		"abr": "carlgustaf",
+		"price": 3333,
+		"category": "Rocket launcher",
+		"defname": "RNEx_CarlGustafRL"
+	},
+	{
+		"abr": "cdx-33patriotlite",
+		"price": 917,
+		"category": "Bolt action",
+		"defname": "RNGun_CDX33PatriotLiteSn"
+	},
+	{
+		"abr": "chinalake",
+		"price": 2500,
+		"category": "Grenade launcher",
+		"defname": "RNEx_ChinaLakeGL"
+	},
+	{
+		"abr": "coltcobra",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_ColtCobra"
+	},
+	{
+		"abr": "coltpeacemaker",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_ColtPeacemaker"
+	},
+	{
+		"abr": "coltpython",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_ColtPython"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 210,
+		"category": "Blade and bow",
+		"defname": "RN_CompoundBow"
+	},
+	{
+		"abr": "compoundcrossbow",
+		"price": 179,
+		"category": "Blade and bow",
+		"defname": "RN_CompoundCrossbow"
+	},
+	{
+		"abr": "cs-lr4",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_CSLR4Sn"
+	},
+	{
+		"abr": "cz75b",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_CZ75B"
+	},
+	{
+		"abr": "cz805brena2",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_CZ805A2AR"
+	},
+	{
+		"abr": "czscorpion",
+		"price": 467,
+		"category": "SMG and PDW",
+		"defname": "RNGun_CZScorpion_PDW"
+	},
+	{
+		"abr": "ddm4v1",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_DDM4AR"
+	},
+	{
+		"abr": "deserteagle",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_DesertEagle"
+	},
+	{
+		"abr": "deserteaglegold",
+		"price": 400,
+		"category": "Pistol",
+		"defname": "RNGun_DesertEagleGold"
+	},
+	{
+		"abr": "deserttechhti",
+		"price": 1050,
+		"category": "Bolt action",
+		"defname": "RNGun_DesertTechHTISn"
+	},
+	{
+		"abr": "deserttechsrs",
+		"price": 917,
+		"category": "Bolt action",
+		"defname": "RNGun_DesertTechSRS"
+	},
+	{
+		"abr": "dp-27",
+		"price": 575,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_DP27LMG"
+	},
+	{
+		"abr": "f2000",
+		"price": 800,
+		"category": "Bullpup rifle",
+		"defname": "RNGun_F2000AR"
+	},
+	{
+		"abr": "famas",
+		"price": 800,
+		"category": "Bullpup rifle",
+		"defname": "RNGun_FAMASAR"
+	},
+	{
+		"abr": "fbberyl",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_FBBerylAR"
+	},
+	{
+		"abr": "fgm-148javelin",
+		"price": 5000,
+		"category": "One-use launcher",
+		"defname": "RNEx_JavelinRL"
+	},
+	{
+		"abr": "flashbangs",
+		"price": 525,
+		"category": "Non-lethal grenade",
+		"defname": "RNThrown_Flashbang"
+	},
+	{
+		"abr": "fnballista",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_FNBallista"
+	},
+	{
+		"abr": "fnfive-seven",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_FiveSeven"
+	},
+	{
+		"abr": "fnmag",
+		"price": 758,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_FNMAG"
+	},
+	{
+		"abr": "fnminimi",
+		"price": 542,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_FNMinimi"
+	},
+	{
+		"abr": "fnminimic9a1",
+		"price": 542,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_C9A1Minimi"
+	},
+	{
+		"abr": "g28",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_G28DMR"
+	},
+	{
+		"abr": "g29",
+		"price": 917,
+		"category": "Bolt action",
+		"defname": "RNGun_HaenelRS9Sn"
+	},
+	{
+		"abr": "g36c",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_G36CAR"
+	},
+	{
+		"abr": "g36csd",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_G36CSDAR"
+	},
+	{
+		"abr": "g3sg1",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_G3SGDMR"
+	},
+	{
+		"abr": "glock17",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_Glock17P"
+	},
+	{
+		"abr": "glock17hrt",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_Glock17_HRT"
+	},
+	{
+		"abr": "glock34combatmaster",
+		"price": 285,
+		"category": "Pistol",
+		"defname": "RNGun_Glock34CM"
+	},
+	{
+		"abr": "golmagnum",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_GOLMagnumSn"
+	},
+	{
+		"abr": "groza-4",
+		"price": 800,
+		"category": "Bullpup rifle",
+		"defname": "RNGun_Groza4AR"
+	},
+	{
+		"abr": "hegrenades",
+		"price": 442,
+		"category": "Lethal grenade",
+		"defname": "RNThrown_HeNade"
+	},
+	{
+		"abr": "hkmg4",
+		"price": 542,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_HKMG4LMG"
+	},
+	{
+		"abr": "hkmg5",
+		"price": 758,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_HKMG5LMG"
+	},
+	{
+		"abr": "hk416",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_HK416Bare"
+	},
+	{
+		"abr": "hk416elite",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_HK416Elite"
+	},
+	{
+		"abr": "hk416nomad",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_HK416Nomad"
+	},
+	{
+		"abr": "hk416sdpredator",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_HK416SD_Predator"
+	},
+	{
+		"abr": "hk416sdpunisher",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_HK416PunisherSD"
+	},
+	{
+		"abr": "hk417hrt",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_HK417HRTDMR"
+	},
+	{
+		"abr": "hk69a1",
+		"price": 2500,
+		"category": "Grenade launcher",
+		"defname": "RNEx_HK69A1GL"
+	},
+	{
+		"abr": "i.m.s.weatherdevice",
+		"price": 1333,
+		"category": "Air support",
+		"defname": "RNAir_IMSTornado"
+	},
+	{
+		"abr": "incendiaries",
+		"price": 525,
+		"category": "Lethal grenade",
+		"defname": "RNThrown_Incendiary"
+	},
+	{
+		"abr": "k2c",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_K2CAR"
+	},
+	{
+		"abr": "kalashnikovsvk",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_SVKDMR"
+	},
+	{
+		"abr": "kar98k",
+		"price": 492,
+		"category": "Bolt action",
+		"defname": "RNGun_Kar98k"
+	},
+	{
+		"abr": "kebabremover(serbairstrike)",
+		"price": 2000,
+		"category": "Air support",
+		"defname": "RNAir_SerbAirstrike"
+	},
+	{
+		"abr": "krissvectorsd",
+		"price": 533,
+		"category": "SMG and PDW",
+		"defname": "RNGun_KrissVector_PDW"
+	},
+	{
+		"abr": "ks-23",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_KS23S"
+	},
+	{
+		"abr": "ksg",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_KSGS"
+	},
+	{
+		"abr": "l115a3sd",
+		"price": 917,
+		"category": "Bolt action",
+		"defname": "RNGun_L115A3Sn"
+	},
+	{
+		"abr": "l129a1",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_L129A1DMR"
+	},
+	{
+		"abr": "l96a1",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_L96A1Sn"
+	},
+	{
+		"abr": "leeenfield",
+		"price": 467,
+		"category": "Bolt action",
+		"defname": "RNGun_LeeEnfield"
+	},
+	{
+		"abr": "longbow1s-1k",
+		"price": 2750,
+		"category": "Spacer",
+		"defname": "RNSci_Longbow1S1K"
+	},
+	{
+		"abr": "lvoa-c",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_LVOACAR"
+	},
+	{
+		"abr": "m110sasssd",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_M110SASSSDDMR"
+	},
+	{
+		"abr": "m14dmr",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_M14DMR"
+	},
+	{
+		"abr": "m16a4",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M16A4AR"
+	},
+	{
+		"abr": "m1911a1",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_M1911A1P"
+	},
+	{
+		"abr": "m1911a1hellfighter",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_M1911_Hellfighter"
+	},
+	{
+		"abr": "m1911a2",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_M1911A2P"
+	},
+	{
+		"abr": "m1avltor",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_M14VLTOR"
+	},
+	{
+		"abr": "m202flash",
+		"price": 3333,
+		"category": "Rocket launcher",
+		"defname": "RNEx_M202FLASH"
+	},
+	{
+		"abr": "m24a2",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_M24A2Sn"
+	},
+	{
+		"abr": "m24a2hrt",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_M24A2HRTSn"
+	},
+	{
+		"abr": "m24a2sd",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_M24A2SDSn"
+	},
+	{
+		"abr": "m27",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M27AR"
+	},
+	{
+		"abr": "m40a5",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_M40A3Sn"
+	},
+	{
+		"abr": "m45a1",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_M45A1_Pistol"
+	},
+	{
+		"abr": "m4a1blackout",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1Black"
+	},
+	{
+		"abr": "m4a1hrt",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1HRT"
+	},
+	{
+		"abr": "m4a1hunter",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1Hunter"
+	},
+	{
+		"abr": "m4a1kandahar",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1AR"
+	},
+	{
+		"abr": "m4a1sdbanshee",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1SD_Banshee"
+	},
+	{
+		"abr": "m4a1sdcommando",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1SD_Commando"
+	},
+	{
+		"abr": "m4a1sdramadi",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1RamadiSD"
+	},
+	{
+		"abr": "m4a1sdvltor",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1SD_VLTOR"
+	},
+	{
+		"abr": "m72law",
+		"price": 3333,
+		"category": "Rocket launcher",
+		"defname": "RNEx_M72LAW"
+	},
+	{
+		"abr": "m82a1",
+		"price": 708,
+		"category": "AMR",
+		"defname": "RNGun_M82A1AMR"
+	},
+	{
+		"abr": "m97trenchgun",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Model1897S"
+	},
+	{
+		"abr": "m9a1",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_M9A1P"
+	},
+	{
+		"abr": "m9a1hrt",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_M9A1_HRT"
+	},
+	{
+		"abr": "mac-11",
+		"price": 315,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MAC11_PDW"
+	},
+	{
+		"abr": "mac-11sd",
+		"price": 331,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MAC11SD_PDW"
+	},
+	{
+		"abr": "makarov",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_Makarov"
+	},
+	{
+		"abr": "matador",
+		"price": 1667,
+		"category": "One-use launcher",
+		"defname": "RNEx_MATADORRL"
+	},
+	{
+		"abr": "matebamodel6",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_Mateba"
+	},
+	{
+		"abr": "mbtlaw",
+		"price": 1667,
+		"category": "One-use launcher",
+		"defname": "RNEx_MBTLAWRL"
+	},
+	{
+		"abr": "milkormgl",
+		"price": 3000,
+		"category": "Grenade launcher",
+		"defname": "RNEx_MilkorMGL"
+	},
+	{
+		"abr": "mk14ebr",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_Mk14EBR"
+	},
+	{
+		"abr": "mk11mod0",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_MK11DMR"
+	},
+	{
+		"abr": "model1887",
+		"price": 260,
+		"category": "Shotgun",
+		"defname": "RNGun_Model1887LA"
+	},
+	{
+		"abr": "molotovcocktails(vodka)",
+		"price": 408,
+		"category": "Lethal grenade",
+		"defname": "RNThrown_Vodka"
+	},
+	{
+		"abr": "mosinnagant",
+		"price": 467,
+		"category": "Bolt action",
+		"defname": "RNGun_MosinNagant"
+	},
+	{
+		"abr": "mossberg500",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Mossberg500S"
+	},
+	{
+		"abr": "mossberg500tactical",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Mossberg500TacticalS"
+	},
+	{
+		"abr": "mp40",
+		"price": 417,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP40_PDW"
+	},
+	{
+		"abr": "mp-412rex",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_MP412REX"
+	},
+	{
+		"abr": "mp445",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_MP445P"
+	},
+	{
+		"abr": "mp5a2",
+		"price": 417,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A2_PDW"
+	},
+	{
+		"abr": "mp5a2sd",
+		"price": 417,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A2SD_PDW"
+	},
+	{
+		"abr": "mp5a3",
+		"price": 433,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A3_PDW"
+	},
+	{
+		"abr": "mp5k-a3sd",
+		"price": 450,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5KPDWSD_PDW"
+	},
+	{
+		"abr": "mp5k-pdw",
+		"price": 450,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5KPDW_PDW"
+	},
+	{
+		"abr": "mp7a2",
+		"price": 467,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP7_PDW"
+	},
+	{
+		"abr": "mp9",
+		"price": 367,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP9_PDW"
+	},
+	{
+		"abr": "mpx",
+		"price": 417,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MPX_PDW"
+	},
+	{
+		"abr": "msbs-5.56",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_MSBS556AR"
+	},
+	{
+		"abr": "nagantm1895",
+		"price": 135,
+		"category": "Revolver",
+		"defname": "RNGun_NagantRevolver"
+	},
+	{
+		"abr": "odinorbitaldevice",
+		"price": 3333,
+		"category": "Air support",
+		"defname": "RNAir_OdinBeam"
+	},
+	{
+		"abr": "orbitalemp",
+		"price": 3333,
+		"category": "Air support",
+		"defname": "RNAir_EMPDevice"
+	},
+	{
+		"abr": "ots-03svu",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_SVUDMR"
+	},
+	{
+		"abr": "ots-03svu-a",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_SVUADMR"
+	},
+	{
+		"abr": "p226",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_P226P"
+	},
+	{
+		"abr": "p320",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_P320P"
+	},
+	{
+		"abr": "p416",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_P416Bare"
+	},
+	{
+		"abr": "p90",
+		"price": 367,
+		"category": "SMG and PDW",
+		"defname": "RNGun_P90_PDW"
+	},
+	{
+		"abr": "p90sd",
+		"price": 367,
+		"category": "SMG and PDW",
+		"defname": "RNGun_P90SD_PDW"
+	},
+	{
+		"abr": "pp-19bizon",
+		"price": 375,
+		"category": "SMG and PDW",
+		"defname": "RNGun_PP19_PDW"
+	},
+	{
+		"abr": "pp-2000",
+		"price": 367,
+		"category": "SMG and PDW",
+		"defname": "RNGun_PP2000_PDW"
+	},
+	{
+		"abr": "ppsh-41",
+		"price": 417,
+		"category": "SMG and PDW",
+		"defname": "RNGun_PPSh41_PDW"
+	},
+	{
+		"abr": "psg-1",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_PSG1DMR"
+	},
+	{
+		"abr": "pt92luison",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_PT92Luison"
+	},
+	{
+		"abr": "ragingbull",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_RagingBull"
+	},
+	{
+		"abr": "railgun",
+		"price": 3333,
+		"category": "Spacer",
+		"defname": "RNSci_Railgun"
+	},
+	{
+		"abr": "remington1858",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_Remington1858P"
+	},
+	{
+		"abr": "remington870",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Remington870S"
+	},
+	{
+		"abr": "remington870hrt",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Remington870HRT"
+	},
+	{
+		"abr": "remington870magnum",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Remington870MagnumS"
+	},
+	{
+		"abr": "remington870tactical",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Remington870TacticalS"
+	},
+	{
+		"abr": "remingtonmsr",
+		"price": 917,
+		"category": "Bolt action",
+		"defname": "RNGun_RemingtonMSR"
+	},
+	{
+		"abr": "rfbdmr",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_RFBDMR"
+	},
+	{
+		"abr": "rncqbbench",
+		"price": 400,
+		"category": "Production",
+		"defname": "RNBench_CQB"
+	},
+	{
+		"abr": "rnheavybench",
+		"price": 400,
+		"category": "Production",
+		"defname": "RNBench_Heavy"
+	},
+	{
+		"abr": "rnmarksmanbench",
+		"price": 400,
+		"category": "Production",
+		"defname": "RNBench_Marksman"
+	},
+	{
+		"abr": "rnriflemanbench",
+		"price": 400,
+		"category": "Production",
+		"defname": "RNBench_Rifleman"
+	},
+	{
+		"abr": "rpg-28",
+		"price": 1667,
+		"category": "One-use launcher",
+		"defname": "RNEx_RPG28RL"
+	},
+	{
+		"abr": "rpg-32",
+		"price": 3333,
+		"category": "Rocket launcher",
+		"defname": "RNEx_RPG32RL"
+	},
+	{
+		"abr": "rpg-7v2",
+		"price": 3333,
+		"category": "Rocket launcher",
+		"defname": "RNEx_RPG7V2RL"
+	},
+	{
+		"abr": "s&wm&p15",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_SWMP15AR"
+	},
+	{
+		"abr": "s&wmodel29",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_SWModel29P"
+	},
+	{
+		"abr": "saiga-12",
+		"price": 667,
+		"category": "Shotgun",
+		"defname": "RNGun_Saiga12S"
+	},
+	{
+		"abr": "sawed-offshotgun",
+		"price": 400,
+		"category": "Shotgun",
+		"defname": "RNGun_SawedOff"
+	},
+	{
+		"abr": "scarmk20ssr",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_SCARMk20DMR"
+	},
+	{
+		"abr": "scar-h",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_SCARHAR"
+	},
+	{
+		"abr": "scar-l",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_SCARLAR"
+	},
+	{
+		"abr": "sigtread",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_SIGM400Tread"
+	},
+	{
+		"abr": "singleactionarmy",
+		"price": 226,
+		"category": "Revolver",
+		"defname": "RNGun_ColtPeacemaker_II"
+	},
+	{
+		"abr": "skorpionvz.61",
+		"price": 234,
+		"category": "SMG and PDW",
+		"defname": "RNGun_SkorpionVZ61_PDW"
+	},
+	{
+		"abr": "skorpionvz.61sd",
+		"price": 234,
+		"category": "SMG and PDW",
+		"defname": "RNGun_SkorpionVZ61SD_PDW"
+	},
+	{
+		"abr": "sksdmr",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_SKSDMR"
+	},
+	{
+		"abr": "sksdmr-sd",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_SKSSDDMR"
+	},
+	{
+		"abr": "smaw",
+		"price": 3333,
+		"category": "Rocket launcher",
+		"defname": "RNEx_SMAWRL"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 525,
+		"category": "Non-lethal grenade",
+		"defname": "RNThrown_Smoke"
+	},
+	{
+		"abr": "snipexm75",
+		"price": 1050,
+		"category": "AMR",
+		"defname": "RNGun_SNIPEXM75Sn"
+	},
+	{
+		"abr": "spas-12",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_SPAS12S"
+	},
+	{
+		"abr": "spectreairbombardment",
+		"price": 3333,
+		"category": "Air support",
+		"defname": "RNAir_Spectre"
+	},
+	{
+		"abr": "sr-25",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_SR25DMR"
+	},
+	{
+		"abr": "ssg08",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_SSG08Sn"
+	},
+	{
+		"abr": "steyrauga3sd",
+		"price": 800,
+		"category": "Bullpup rifle",
+		"defname": "RNGun_AUGA3SDAR"
+	},
+	{
+		"abr": "supernova",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Supernova"
+	},
+	{
+		"abr": "super-shorty",
+		"price": 400,
+		"category": "Shotgun",
+		"defname": "RNGun_SuperShorty"
+	},
+	{
+		"abr": "sv-98",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_SV98Sn"
+	},
+	{
+		"abr": "tec-9",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_TEC-9P"
+	},
+	{
+		"abr": "thompsonsmg",
+		"price": 417,
+		"category": "SMG and PDW",
+		"defname": "RNGun_ThompsonSMG_PDW"
+	},
+	{
+		"abr": "tt-30",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_TT30P"
+	},
+	{
+		"abr": "type56",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_Type56AR"
+	},
+	{
+		"abr": "type88",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_QBU88DMR"
+	},
+	{
+		"abr": "type99",
+		"price": 742,
+		"category": "AMR",
+		"defname": "RNGun_M99AMR"
+	},
+	{
+		"abr": "ump45",
+		"price": 433,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45_PDW"
+	},
+	{
+		"abr": "ump45sd",
+		"price": 433,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45SD_PDW"
+	},
+	{
+		"abr": "usas-12",
+		"price": 667,
+		"category": "Shotgun",
+		"defname": "RNGun_USAS12S"
+	},
+	{
+		"abr": "usp45sd",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_USP45SD"
+	},
+	{
+		"abr": "ussocommk23",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_MK23P"
+	},
+	{
+		"abr": "uts-15",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_UTS15S"
+	},
+	{
+		"abr": "uzi",
+		"price": 315,
+		"category": "SMG and PDW",
+		"defname": "RNGun_Uzi_PDW"
+	},
+	{
+		"abr": "uzisd",
+		"price": 315,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UziSD_PDW"
+	},
+	{
+		"abr": "vssvintorez",
+		"price": 467,
+		"category": "DMR",
+		"defname": "RNGun_VSSDMR"
+	},
+	{
+		"abr": "walthermpl",
+		"price": 234,
+		"category": "SMG and PDW",
+		"defname": "RNGun_WaltherMPL_PDW"
+	},
+	{
+		"abr": "waltherppk",
+		"price": 232,
+		"category": "Pistol",
+		"defname": "RNGun_WaltherPPK"
+	},
+	{
+		"abr": "xd-s",
+		"price": 285,
+		"category": "Pistol",
+		"defname": "RNGun_HS2000P"
+	},
+	{
+		"abr": "xm-15",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_XM15AR"
+	},
+	{
+		"abr": "xm25",
+		"price": 3333,
+		"category": "Grenade launcher",
+		"defname": "RNEx_XM25GL"
+	},
+	{
+		"abr": "xm8",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_XM8AR"
+	},
+	{
+		"abr": "zastavam07",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_ZastavaM07Sn"
+	},
+	{
+		"abr": "zastavam21",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_ZastavaM21AR"
+	},
+	{
+		"abr": "zastavam70",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_ZastavaM70AR"
+	},
+	{
+		"abr": "zastavam70ab2",
+		"price": 908,
+		"category": "AK style rifle",
+		"defname": "RNGun_ZastavaM70AB2AR"
+	},
+	{
+		"abr": "zastavam76",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_ZastavaM76DMR"
+	},
+	{
+		"abr": "zastavam84",
+		"price": 700,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_ZastavaM84LMG"
+	},
+	{
+		"abr": "zastavam92",
+		"price": 475,
+		"category": "SMG and PDW",
+		"defname": "RNGun_ZastavaM92_PDW"
 	}
 	],
-	"total": 653
+	"total": 889
 }
