@@ -9203,7 +9203,193 @@
 		"price": 1667,
 		"category": "Items",
 		"defname": "ZygolophodonTusk"
+	},
+	{
+		"abr": "blackcloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "BlackCloth"
+	},
+	{
+		"abr": "bluecloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "BlueCloth"
+	},
+	{
+		"abr": "dyebarrel",
+		"price": 244,
+		"category": "Production",
+		"defname": "BarrelDye"
+	},
+	{
+		"abr": "greencloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "GreenCloth"
+	},
+	{
+		"abr": "greycloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "GreyCloth"
+	},
+	{
+		"abr": "orangecloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "OrangeCloth"
+	},
+	{
+		"abr": "pinkcloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "PinkCloth"
+	},
+	{
+		"abr": "purewhitecloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "PureWhiteCloth"
+	},
+	{
+		"abr": "purplecloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "PurpleCloth"
+	},
+	{
+		"abr": "redcloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "RedCloth"
+	},
+	{
+		"abr": "tealcloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "TealCloth"
+	},
+	{
+		"abr": "violetpurplecloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "VioletCloth"
+	},
+	{
+		"abr": "yellowcloth",
+		"price": 2,
+		"category": "Dyed cloth",
+		"defname": "YellowCloth"
+	},
+	{
+		"abr": "advancedarchotecharm",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "AdvancedArchotechArm"
+	},
+	{
+		"abr": "advancedarchotechleg",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "AdvancedArchotechLeg"
+	},
+	{
+		"abr": "archotechbrainmelder",
+		"price": 13333,
+		"category": "Artificial",
+		"defname": "ArchotechBrainMelder"
+	},
+	{
+		"abr": "archotechdeathclaw",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "ArchotechDeathClaw"
+	},
+	{
+		"abr": "archotechdenture",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechDenture"
+	},
+	{
+		"abr": "archotechear",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechHeart"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechLung"
+	},
+	{
+		"abr": "archotechobliterator",
+		"price": 33333,
+		"category": "Artificial",
+		"defname": "ArchotechObliterator"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechPelvis"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Artificial",
+		"defname": "ArchotechStomach"
+	},
+	{
+		"abr": "attomachinery",
+		"price": 500,
+		"category": "Textiles",
+		"defname": "Attomachinery"
+	},
+	{
+		"abr": "basicarchotechworkbench",
+		"price": 2617,
+		"category": "Production",
+		"defname": "BasicArchotechWorkbench"
+	},
+	{
+		"abr": "nanomachinery",
+		"price": 167,
+		"category": "Textiles",
+		"defname": "Nanomachinery"
+	},
+	{
+		"abr": "picomachinery",
+		"price": 333,
+		"category": "Textiles",
+		"defname": "Picomachinery"
 	}
 	],
-	"total": 1534
+	"total": 1565
 }
