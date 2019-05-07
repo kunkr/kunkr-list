@@ -56,21 +56,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "toxicfallout",
-		"price": 4200,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "volcanicwinter",
-		"price": 2600,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -251,11 +236,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 10,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "animal",
 		"price": 1500,
 		"karmatype": "Good"
@@ -283,6 +263,26 @@
 	{
 		"abr": "prisoner",
 		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "taskforce141",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "theghosts",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "umbracompany",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "MSF",
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -344,27 +344,7 @@
 		"abr": "baseattack",
 		"price": 1000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "taskforce141",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "theghosts",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "umbracompany",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "MSF",
-		"price": 1500,
-		"karmatype": "Good"
 	}
 	],
-	"total": 73
+	"total": 69
 }
