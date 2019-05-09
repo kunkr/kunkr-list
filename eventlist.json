@@ -56,6 +56,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "solarflare",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -107,7 +112,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 50,
 		"karmatype": "Neutral"
 	},
 	{
@@ -141,11 +146,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -172,6 +172,11 @@
 	},
 	{
 		"abr": "yorkshireterriers",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
 	},
@@ -233,6 +238,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -346,5 +356,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 69
+	"total": 71
 }
