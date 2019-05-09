@@ -8379,181 +8379,181 @@
 	{
 		"abr": "animalimplant:bearleg(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_BearLeg"
 	},
 	{
 		"abr": "animalimplant:bearliver(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_BearLiver"
 	},
 	{
 		"abr": "animalimplant:bionicthrumbobrain(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ThrumboBrain"
 	},
 	{
 		"abr": "animalimplant:bionicthrumboeye(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ThrumboEye"
 	},
 	{
 		"abr": "animalimplant:bionicthrumbojaws(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ThrumboJaws"
 	},
 	{
 		"abr": "animalimplant:boomalopeheart(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_BoomalopeHeart"
 	},
 	{
 		"abr": "animalimplant:boomalopestomach(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_BoomalopeStomach"
 	},
 	{
 		"abr": "animalimplant:canideye(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_CanidEye"
 	},
 	{
 		"abr": "animalimplant:chickenbrains(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ChickenBrains"
 	},
 	{
 		"abr": "animalimplant:chickenkidney(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ChickenKidney"
 	},
 	{
 		"abr": "animalimplant:chitinousheart(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ChitinousHeart"
 	},
 	{
 		"abr": "animalimplant:crocodilespine(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_CrocodileSpine"
 	},
 	{
 		"abr": "animalimplant:insectmandibles(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_InsectMandibles"
 	},
 	{
 		"abr": "animalimplant:insectileeye(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_InsectileEye"
 	},
 	{
 		"abr": "animalimplant:lizardleg(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_LizardLeg"
 	},
 	{
 		"abr": "animalimplant:mechanoidauditoryreceptors(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MechaReceptors"
 	},
 	{
 		"abr": "animalimplant:mechanoidheart(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MechaHeart"
 	},
 	{
 		"abr": "animalimplant:mechanoidspine(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MechaSpine"
 	},
 	{
 		"abr": "animalimplant:mechanoidtail(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MechaTail"
 	},
 	{
 		"abr": "animalimplant:miniaturethrumbohorn(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MiniatureThrumboHorn"
 	},
 	{
 		"abr": "animalimplant:monitorlizardbrain(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MonitorLizardBrain"
 	},
 	{
 		"abr": "animalimplant:mothtympanalorgan(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MothTympanalOrgan"
 	},
 	{
 		"abr": "animalimplant:muffalolung(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MuffaloLung"
 	},
 	{
 		"abr": "animalimplant:muffalospine(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MuffaloSpine"
 	},
 	{
 		"abr": "animalimplant:pheromonereceivers(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_InsectoidPheromones"
 	},
 	{
 		"abr": "animalimplant:rodentear(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_RodentEar"
 	},
 	{
 		"abr": "animalimplant:rodentnose(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_RodentNose"
 	},
 	{
 		"abr": "animalimplant:scythertail(tier2)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ScytherTail"
 	},
 	{
 		"abr": "animalimplant:thrumboleg(tier3)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ThrumboLeg"
 	},
 	{
 		"abr": "animalimplant:wolfjaws(tier1)",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_WolfJaws"
 	},
 	{
@@ -10233,145 +10233,145 @@
 	{
 		"abr": "humanimplant:bearclaws",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_BearClaws"
 	},
 	{
 		"abr": "humanimplant:bearmuscletissue",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_BearMuscleTissue"
 	},
 	{
 		"abr": "humanimplant:boomalopenodules",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_BoomalopeNodules"
 	},
 	{
 		"abr": "humanimplant:bunnyear",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_BunnyEars"
 	},
 	{
 		"abr": "humanimplant:chemfuelheart",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ChemfuelHeart"
 	},
 	{
 		"abr": "humanimplant:chemfuelstomach",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ChemfuelStomach"
 	},
 	{
 		"abr": "humanimplant:devouringjaws",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_DevouringJaws"
 	},
 	{
 		"abr": "humanimplant:diggingbearclaws",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_DiggingBearClaws"
 	},
 	{
 		"abr": "humanimplant:hibernationmodule",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_HibernationModule"
 	},
 	{
 		"abr": "humanimplant:iguanascales",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_IguanaScales"
 	},
 	{
 		"abr": "humanimplant:insectoidantennae",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_InsectoidAntennae"
 	},
 	{
 		"abr": "humanimplant:kidneytoxicfilters",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_KidneyToxicFilters"
 	},
 	{
 		"abr": "humanimplant:mole-ratnervedampener",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MoleratNerveDampener"
 	},
 	{
 		"abr": "humanimplant:mousepheromones",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MousePheromones"
 	},
 	{
 		"abr": "humanimplant:muffalomammaries",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MuffaloMammaries"
 	},
 	{
 		"abr": "humanimplant:muffaloskin",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MuffaloSkin"
 	},
 	{
 		"abr": "humanimplant:muffalostrengthenedmuscles",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_MuffaloMuscles"
 	},
 	{
 		"abr": "humanimplant:neuronreinforcement",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_NeuronReinforcement"
 	},
 	{
 		"abr": "humanimplant:ovipositor",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_Ovipositor"
 	},
 	{
 		"abr": "humanimplant:psychicdampeners",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_PsychicDampeners"
 	},
 	{
 		"abr": "humanimplant:thrumbohorn",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_HumanThrumboHorn"
 	},
 	{
 		"abr": "humanimplant:thrumboskin",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_ThrumboSkin"
 	},
 	{
 		"abr": "humanimplant:venomousfangs",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_VenomousFangs"
 	},
 	{
 		"abr": "humanimplant:wolfmuscularfibers",
 		"price": 417,
-		"category": "Artificial",
+		"category": "Hybrid implants",
 		"defname": "GR_WolfMuscularFibers"
 	},
 	{
@@ -10383,25 +10383,25 @@
 	{
 		"abr": "hybridbeargenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridBearGenesGenetrainer"
 	},
 	{
 		"abr": "hybridboomalopegenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridBoomalopeGenesGenetrainer"
 	},
 	{
 		"abr": "hybridcatgenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridCatGenesGenetrainer"
 	},
 	{
 		"abr": "hybridchickengenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridChickenGenesGenetrainer"
 	},
 	{
@@ -10425,43 +10425,43 @@
 	{
 		"abr": "hybridinsectoidgenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridInsectoidGenesGenetrainer"
 	},
 	{
 		"abr": "hybridmechanoidgenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridMechanoidGenesGenetrainer"
 	},
 	{
 		"abr": "hybridmuffalogenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridMuffaloGenesGenetrainer"
 	},
 	{
 		"abr": "hybridreptilegenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridReptileGenesGenetrainer"
 	},
 	{
 		"abr": "hybridrodentgenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridRodentGenesGenetrainer"
 	},
 	{
 		"abr": "hybridthrumbogenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridThrumboGenesGenetrainer"
 	},
 	{
 		"abr": "hybridwolfgenesgenetrainer",
 		"price": 167,
-		"category": "Items",
+		"category": "Genetrainers",
 		"defname": "GR_HybridWolfGenesGenetrainer"
 	},
 	{
@@ -11561,7 +11561,13 @@
 		"price": 6,
 		"category": "Molten shells",
 		"defname": "MoltenShell"
+	},
+	{
+		"abr": "archotechcentipedemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_ArchotechCentipede"
 	}
 	],
-	"total": 2198
+	"total": 2199
 }
