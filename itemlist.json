@@ -2,19 +2,19 @@
 	"items" : [
 	{
 		"abr": "insectmeat",
-		"price": 1,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Megaspider"
 	},
 	{
 		"abr": "hay",
-		"price": 1,
+		"price": -10,
 		"category": "Animal Feed",
 		"defname": "Hay"
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
@@ -3569,12 +3569,6 @@
 		"price": 2258,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
-	},
-	{
-		"abr": "youthserum",
-		"price": 2333,
-		"category": "Items",
-		"defname": "MechSerumYouth"
 	},
 	{
 		"abr": "megascreentelevision",
@@ -10811,7 +10805,763 @@
 		"price": 75,
 		"category": "Incubators",
 		"defname": "GR_MechaturtleIncubator"
+	},
+	{
+		"abr": "anti-materielrifle",
+		"price": 1267,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSAMRifle"
+	},
+	{
+		"abr": "assaultarmor",
+		"price": 3717,
+		"category": "Apparel",
+		"defname": "Apparel_Bjorn"
+	},
+	{
+		"abr": "assaultcharger",
+		"price": 2508,
+		"category": "Ranged weapons",
+		"defname": "Gun_AssaultCharger"
+	},
+	{
+		"abr": "assaulthammer",
+		"price": 1367,
+		"category": "Melee weapons",
+		"defname": "JI_Ormbane"
+	},
+	{
+		"abr": "assaulthelmet",
+		"price": 1367,
+		"category": "Headgear",
+		"defname": "Apparel_BjornH"
+	},
+	{
+		"abr": "automaticrifle",
+		"price": 900,
+		"category": "Ranged weapons",
+		"defname": "Gun_AutomaticRifle"
+	},
+	{
+		"abr": "auxiliarypistol",
+		"price": 298,
+		"category": "Federation weapons",
+		"defname": "AD_AuxPistol"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBattleRifle"
+	},
+	{
+		"abr": "blowgun",
+		"price": 221,
+		"category": "Ranged weapons",
+		"defname": "Gun_Blowgun"
+	},
+	{
+		"abr": "burstcharger",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "Gun_BurstCharger"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSCarbine"
+	},
+	{
+		"abr": "carbonjumpsuit",
+		"price": 319,
+		"category": "Apparel",
+		"defname": "Carbonsuit"
+	},
+	{
+		"abr": "carver",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "Carver"
+	},
+	{
+		"abr": "chargedriver",
+		"price": 2192,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeDriver"
+	},
+	{
+		"abr": "chargesidearm",
+		"price": 850,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeSidearm"
+	},
+	{
+		"abr": "cleaver",
+		"price": 288,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralCleaver"
+	},
+	{
+		"abr": "closecombatarmor",
+		"price": 4050,
+		"category": "Apparel",
+		"defname": "Apparel_CloseCombatArmor"
+	},
+	{
+		"abr": "closecombathelmet",
+		"price": 1092,
+		"category": "Headgear",
+		"defname": "Apparel_CloseCombatHelmet"
+	},
+	{
+		"abr": "combatblade",
+		"price": 467,
+		"category": "Melee weapons",
+		"defname": "GD_Sabertooth"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 542,
+		"category": "Ranged weapons",
+		"defname": "Bow_Compound"
+	},
+	{
+		"abr": "concussionbaton",
+		"price": 2300,
+		"category": "Melee weapons",
+		"defname": "AD_Verdict"
+	},
+	{
+		"abr": "cruciblecarbine",
+		"price": 1683,
+		"category": "Federation weapons",
+		"defname": "AD_CrucibleCarbine"
+	},
+	{
+		"abr": "cruciblecore",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "CrucibleCore"
+	},
+	{
+		"abr": "cruciblepistol",
+		"price": 1100,
+		"category": "Federation weapons",
+		"defname": "AD_Negotiator"
+	},
+	{
+		"abr": "crucibleprecisionrifle",
+		"price": 2367,
+		"category": "Federation weapons",
+		"defname": "AD_Intercessor"
+	},
+	{
+		"abr": "cruciblerifle",
+		"price": 1808,
+		"category": "Federation weapons",
+		"defname": "AD_Pacificator"
+	},
+	{
+		"abr": "crystallinestructurefoundry",
+		"price": 1117,
+		"category": "Production",
+		"defname": "YPTable"
+	},
+	{
+		"abr": "dropsuit",
+		"price": 3858,
+		"category": "Apparel",
+		"defname": "Apparel_Dropsuit"
+	},
+	{
+		"abr": "dropsuithelmet",
+		"price": 1200,
+		"category": "Headgear",
+		"defname": "Apparel_DropsuitH"
+	},
+	{
+		"abr": "dummy",
+		"price": 725,
+		"category": "Security",
+		"defname": "RSDummy"
+	},
+	{
+		"abr": "emprifle",
+		"price": 1883,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMPRifle"
+	},
+	{
+		"abr": "energycrucible",
+		"price": 2242,
+		"category": "Production",
+		"defname": "FedTable"
+	},
+	{
+		"abr": "equipmentassemblyfacility",
+		"price": 608,
+		"category": "Production",
+		"defname": "GDTable"
+	},
+	{
+		"abr": "exo-frame",
+		"price": 2083,
+		"category": "Apparel",
+		"defname": "Apparel_Exoframe"
+	},
+	{
+		"abr": "federationjumpsuit",
+		"price": 408,
+		"category": "Apparel",
+		"defname": "FedSuit"
+	},
+	{
+		"abr": "feralanti-materialrifle",
+		"price": 617,
+		"category": "Ranged weapons",
+		"defname": "Gun_Crucifier"
+	},
+	{
+		"abr": "feralcrankgun",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "Gun_SkullBuster"
+	},
+	{
+		"abr": "feralexosuit",
+		"price": 6000,
+		"category": "Apparel",
+		"defname": "Apparel_FeralExo"
+	},
+	{
+		"abr": "feralexosuithelmet",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "Apparel_FeralExoH"
+	},
+	{
+		"abr": "feralflamethrower",
+		"price": 658,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scorcher"
+	},
+	{
+		"abr": "feralgasmask",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_ScorcherHelmet"
+	},
+	{
+		"abr": "feralhelmet",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_GrinderHelmet"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_HuskerHood"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_SkulkerHood"
+	},
+	{
+		"abr": "feralhood",
+		"price": 225,
+		"category": "Headgear",
+		"defname": "Apparel_ThumperHood"
+	},
+	{
+		"abr": "feralmail",
+		"price": 667,
+		"category": "Apparel",
+		"defname": "Apparel_FeralMail"
+	},
+	{
+		"abr": "feralnailgun",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "Gun_Gnasher"
+	},
+	{
+		"abr": "feralpistols",
+		"price": 125,
+		"category": "Ranged weapons",
+		"defname": "Gun_Scraptooth"
+	},
+	{
+		"abr": "feralratsticks",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "Gun_RatStick"
+	},
+	{
+		"abr": "feralrifle",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thrasher"
+	},
+	{
+		"abr": "feralrocketlauncher",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thumper"
+	},
+	{
+		"abr": "feralscattergun",
+		"price": 233,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterStick"
+	},
+	{
+		"abr": "feralsubmachineguns",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "Gun_Deathdealer"
+	},
+	{
+		"abr": "firesupportarmor",
+		"price": 4217,
+		"category": "Apparel",
+		"defname": "Apparel_FSArmor"
+	},
+	{
+		"abr": "firesupporthelmet",
+		"price": 1317,
+		"category": "Headgear",
+		"defname": "Apparel_FSArmorH"
+	},
+	{
+		"abr": "foerum",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "Foerum"
+	},
+	{
+		"abr": "frontierrifle",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "Gun_FR"
+	},
+	{
+		"abr": "fuelbarrel",
+		"price": 350,
+		"category": "Security",
+		"defname": "FuelBarrel"
+	},
+	{
+		"abr": "gdbuckshotlauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_BSLauncher"
+	},
+	{
+		"abr": "gdhvsmg",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "GD_HVSMG"
+	},
+	{
+		"abr": "gdincendiarylauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_INGrenadeLauncher"
+	},
+	{
+		"abr": "gdmultilauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_GrenadeLauncher"
+	},
+	{
+		"abr": "gdsmokelauncher",
+		"price": 992,
+		"category": "GD weapons",
+		"defname": "GD_SKGrenadeLauncher"
+	},
+	{
+		"abr": "glaive",
+		"price": 358,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralGlaive"
+	},
+	{
+		"abr": "hazardcarapace",
+		"price": 4058,
+		"category": "Apparel",
+		"defname": "Apparel_HazardCarapace"
+	},
+	{
+		"abr": "hazardhelmet",
+		"price": 1108,
+		"category": "Headgear",
+		"defname": "Apparel_HazardCarapaceH"
+	},
+	{
+		"abr": "heatcannon",
+		"price": 3258,
+		"category": "Federation weapons",
+		"defname": "AD_Arbiter"
+	},
+	{
+		"abr": "heavyrevolver",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Gun_PistolHeavyRevolver"
+	},
+	{
+		"abr": "impactgrenades",
+		"price": 800,
+		"category": "Grenades",
+		"defname": "TE_Grief"
+	},
+	{
+		"abr": "impactmine",
+		"price": 492,
+		"category": "Security",
+		"defname": "ImpactMine"
+	},
+	{
+		"abr": "jiamr",
+		"price": 2142,
+		"category": "JI weapons",
+		"defname": "JI_Gramr"
+	},
+	{
+		"abr": "jimoltenpistol",
+		"price": 900,
+		"category": "JI weapons",
+		"defname": "JI_Trollsverd"
+	},
+	{
+		"abr": "jimoltenrifle",
+		"price": 1583,
+		"category": "JI weapons",
+		"defname": "JI_Hrunting"
+	},
+	{
+		"abr": "jisiegegun",
+		"price": 4142,
+		"category": "JI weapons",
+		"defname": "JI_Grendel"
+	},
+	{
+		"abr": "jisiegeshotgun",
+		"price": 2017,
+		"category": "JI weapons",
+		"defname": "JI_Fafnir"
+	},
+	{
+		"abr": "jisuppressorcannon",
+		"price": 2183,
+		"category": "JI weapons",
+		"defname": "JI_Muspell"
+	},
+	{
+		"abr": "kineticfieldmanipulator",
+		"price": 1142,
+		"category": "Production",
+		"defname": "TETable"
+	},
+	{
+		"abr": "madness",
+		"price": 4167,
+		"category": "Grenades",
+		"defname": "Weapon_MADness"
+	},
+	{
+		"abr": "magneticforge",
+		"price": 1225,
+		"category": "Production",
+		"defname": "JITable"
+	},
+	{
+		"abr": "makeshiftcruciblerifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Gun_MCrucibleRifle"
+	},
+	{
+		"abr": "marksmangear",
+		"price": 2842,
+		"category": "Apparel",
+		"defname": "Apparel_MarksmanGear"
+	},
+	{
+		"abr": "marksmangearhelmet",
+		"price": 1208,
+		"category": "Headgear",
+		"defname": "Apparel_MarksmanGearH"
+	},
+	{
+		"abr": "mechanoid/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MecharatIncubator"
+	},
+	{
+		"abr": "mechanoid/thrumboincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechathrumboIncubator"
+	},
+	{
+		"abr": "mechanoid/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechawolfIncubator"
+	},
+	{
+		"abr": "mechanoidactivecomponents",
+		"price": 167,
+		"category": "Genetic materials",
+		"defname": "GR_MechanoidGenetic"
+	},
+	{
+		"abr": "mechanoidcontrollerbelt",
+		"price": 1242,
+		"category": "Apparel",
+		"defname": "WTH_Apparel_MechControllerBelt"
+	},
+	{
+		"abr": "mechanoidegg",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "GR_ElectroEgg"
+	},
+	{
+		"abr": "mechanoidinterfacechip",
+		"price": 167,
+		"category": "Items",
+		"defname": "GR_MechanoidInterfaceChip"
+	},
+	{
+		"abr": "mechanoidmilk",
+		"price": 25,
+		"category": "Animal products",
+		"defname": "GR_MechaMilk"
+	},
+	{
+		"abr": "mechanoidwool",
+		"price": 25,
+		"category": "Textiles",
+		"defname": "GR_MechaWool"
+	},
+	{
+		"abr": "mechanoidworkshop",
+		"price": 1917,
+		"category": "Production",
+		"defname": "WTH_TableMechanoidWorkshop"
+	},
+	{
+		"abr": "mecha-ratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mecharat"
+	},
+	{
+		"abr": "mechaspidermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechaspider"
+	},
+	{
+		"abr": "mechathrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechathrumbo"
+	},
+	{
+		"abr": "mechaturtlemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechaturtle"
+	},
+	{
+		"abr": "mechawolfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechawolf"
+	},
+	{
+		"abr": "megafaunabearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaBearIncubator"
+	},
+	{
+		"abr": "megafaunaboomalopeincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaBoomalopeIncubator"
+	},
+	{
+		"abr": "megafaunachickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaChickenIncubator"
+	},
+	{
+		"abr": "megafaunagenepod",
+		"price": 858,
+		"category": "Production",
+		"defname": "GR_MegafaunaGenePod"
+	},
+	{
+		"abr": "megafaunageneticmaterial",
+		"price": 75,
+		"category": "Genetic materials",
+		"defname": "GR_MegafaunaGenetic"
+	},
+	{
+		"abr": "megafaunainsectoidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaInsectoidIncubator"
+	},
+	{
+		"abr": "megafaunamuffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaMuffaloIncubator"
+	},
+	{
+		"abr": "megafaunareptileincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaReptilianIncubator"
+	},
+	{
+		"abr": "megafaunarodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaRodentIncubator"
+	},
+	{
+		"abr": "megafaunathrumboincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaThrumboIncubator"
+	},
+	{
+		"abr": "megafaunawolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaWolfIncubator"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "microwavegrenades",
+		"price": 800,
+		"category": "Grenades",
+		"defname": "YP_BaegYa"
+	},
+	{
+		"abr": "militiarifle",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "Gun_MilitiaRifle"
+	},
+	{
+		"abr": "minigrenades",
+		"price": 575,
+		"category": "Grenades",
+		"defname": "GD_Bobcat"
+	},
+	{
+		"abr": "missilelauncher",
+		"price": 1092,
+		"category": "Security",
+		"defname": "NestMissile"
+	},
+	{
+		"abr": "modularacceleratorkit",
+		"price": 858,
+		"category": "Modular conversion kit",
+		"defname": "MRSKitH"
+	},
+	{
+		"abr": "modularcarbine",
+		"price": 675,
+		"category": "GD weapons",
+		"defname": "GD_ModularCarbine"
+	},
+	{
+		"abr": "modulardmr",
+		"price": 1017,
+		"category": "GD weapons",
+		"defname": "GD_ModularDMR"
+	},
+	{
+		"abr": "modularflakker",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSSF"
+	},
+	{
+		"abr": "modularhybridpistol",
+		"price": 1467,
+		"category": "GD weapons",
+		"defname": "GD_MSSH"
+	},
+	{
+		"abr": "modularhybridrifle",
+		"price": 1533,
+		"category": "GD weapons",
+		"defname": "GD_HybridRifle"
+	},
+	{
+		"abr": "modularlmg",
+		"price": 1017,
+		"category": "GD weapons",
+		"defname": "GD_ModularLMG"
+	},
+	{
+		"abr": "modularrifle",
+		"price": 900,
+		"category": "GD weapons",
+		"defname": "GD_ModularRifle"
+	},
+	{
+		"abr": "modularsidearmsystemkit",
+		"price": 608,
+		"category": "Modular conversion kit",
+		"defname": "MSSKit"
+	},
+	{
+		"abr": "modularspitfire",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSSS"
+	},
+	{
+		"abr": "modulartriple-shot",
+		"price": 608,
+		"category": "GD weapons",
+		"defname": "GD_MSST"
+	},
+	{
+		"abr": "moltenshell",
+		"price": 6,
+		"category": "Molten shells",
+		"defname": "MoltenShell"
 	}
 	],
-	"total": 2105
+	"total": 2198
 }
